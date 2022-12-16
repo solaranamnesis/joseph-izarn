@@ -1,6 +1,6 @@
 # Des Pierres Tombées du Ciel, ou Lithologie Atmosphérique,
 
-### Présentant la Marche et l'Etat actuel de la Science, sur le Phénomène des _Pierres de foudre_, _Pluies de pierres_, _Pierres tombées du ciel_, _etc._ ; plusieurs Observations inédites, communiquées par MM. Pictet, Sage, Darcet et Vauquelin; avec un Essai de Théorie sur la formation de ces _Pierres_.
+### Présentant la Marche et l'Etat actuel de la Science, sur le Phénomène des _Pierres de foudre_, _Pluies de pierres_, _Pierres tombées du ciel_, _etc._ ; plusieurs Observations inédites, communiquées par MM. Pictet, Sage, Darcet et Vauquelin ; avec un Essai de Théorie sur la formation de ces _Pierres_.
 
 ## Par Joseph Izarn, Médecin, Professeur de Physique ; de la Société des Sciences, Belles-Lettres et Arts de Paris ; Secrétaire de la Commission d'Expériences de la Société Galvanique, et Correspondant de plusieurs Sociétés savantes.
 
