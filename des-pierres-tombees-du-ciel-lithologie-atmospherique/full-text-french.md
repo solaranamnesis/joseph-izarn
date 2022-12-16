@@ -13,7 +13,7 @@ _De hoc multi multa, omnes aliquid_, Nemo Satis.
 
 Citoyen Sénateur,
 
-Le phénomène sur lequel les travaux de MM. Howard et Vauquelin ont fixé l'attention générale, touchait de trop près aux régions dont vous avez su faire votre domaine, pour ne pas exciter en vous un inlérêt particulier. Pouviez-vous ne pas sourire à l'idée d'une correspondance immédiate entre ces masses, qui sont l'objet principal de vos profondes méditations, et celle qui vous compte parmi ses habitans dont elle s'honore le plus ?
+Le phénomène sur lequel les travaux de MM. Howard et Vauquelin ont fixé l'attention générale, touchait de trop près aux régions dont vous avez su faire votre domaine, pour ne pas exciter en vous un intérêt particulier. Pouviez-vous ne pas sourire à l'idée d'une correspondance immédiate entre ces masses, qui sont l'objet principal de vos profondes méditations, et celle qui vous compte parmi ses habitans dont elle s'honore le plus ?
 
 Vous avez manifesté le desir de voir constater la réalité du phénomène.* Les recherches que j'ai faites d'abord pour mon instruction, m'ont offert des résultats que j'ai cru propres à remplir vos vues. Vous avez bien voulu prendre connaissance de mon travail, et vous l'avez jugé digne de l'attention des Physiciens, puisque vous avez permis qu'il leur fût présenté sous les auspices de l'illustre auteur de LA MÉCHANIQUE CÉLESTE.
 
