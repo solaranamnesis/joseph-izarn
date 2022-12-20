@@ -158,4 +158,14 @@ Rien n'est si connu dans la république des lettres que le mérite que les ancie
 
 N°\. 6.
 
+49\. Dans la même année 1723, l'historien de l'Académie des Sciences donna sur le même phénomène, et d'après l'opinion de M. de Jussieu, les réflexions suivantes.
+
+« Les pierres de foudre n'ont rien d'animal (il venait de parler des pierres connues sous le nom d'_yeux de serpent_, de _crapaudines_, _etc._) ; ce sont, ajoute-t-il, de véritables cailloux qui ont une figure de coin ou de fer de flêche. Cette figure a fait juger aux anciens Grecs qu'elles étaient les armes de Jupiter tonnant, et qu'il les lançait de ses mains avec la foudre : cette opinion a passé ou est née d'elle-même chez les peuples du Nord, qui, pour trouver ces pierres en grande quantité, ne les en ont pas moins révérées. Ils croient même que quoiqu'elles viennent de la foudre, elles les en garantiront, et on a bien de la peine encore aujourd'hui à les en désabuser. Les Chinois, qui ne sont guère à portée de la contagion de ces idées, en ont pourtant d'assez semblables, et il n'est pas trop aisé de voir pourquoi cette superstition est assez naturelle. »
+
+50\. L'origine de ces pierres est très-évidente et très-sûre, dès qu'on en voit de toutes pareilles taillées par les Sauvages d'Amérique, pour fendre du bois ou armer leurs flêches. Ils n'ont point de fer ; et en frottant des pierres fort dures les unes contre les autres, ils font ces sortes d'ouvrages qui leur sont absolument nécessaires, et n'y plaignent point le temps dont en effet ils ne manquent pas. Notre continent fut anciennement habité par des Sauvages, et les mêmes besoins, la même disette de fer leur ont inspiré la même industrie. Dans la suite, leurs outils, devenus inutiles, ont été ensevelis, en grande quantité, dans la terre, et s'y sont mieux conservés, que s'ils eussent été de métal ; car la rouille ou le verdet les auraient peut-être consumés ou défigurés ; et voilà ces pierres tombées avec la foudre ! ...
+
+N°\. 7.
+
+51\. En 1734, l'Historien de l'Académie des Inscriptions et Belles-lettres donna l'extrait suivant d'un mémoire, lu à l'Académie par M. Mahudel, sur les _prétendues pierres de foudre_.
+
 ...
