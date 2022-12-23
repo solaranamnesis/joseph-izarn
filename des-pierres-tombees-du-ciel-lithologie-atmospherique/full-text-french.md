@@ -323,4 +323,61 @@ Et liquidum puncto facit æs in tempore et aurum.
 
 104\. Il est vrai que la foudre soulève quelquefois la terre dans laquelle elle s'enfonce en tombant, qu'elle répand au loin une odeur sulphureuse. Ces phénomènes ne prouvent pas la fusion. On ne peut pas tenir le même langage relativement aux veines métalliques. Les scories, soit martiales, soit cuivreuses, trouvées après que le métal a été frappé de la foudre, prouvent que le métal a été mis en fusion.
 
+105\. Il résulte de ces différentes observations que la pierre de tonnerre existe ; qu'elle ne s'engendre ni dans l'air, ni dans les nuages ; mais qu'elle est le résultat de la fusion du minerai dans l'endroit où le feu du ciel est tombé. Le caractère de cette pierre est de ressembler à des scories métalliques, auxquelles sont joints quelquefois des morceaux de pierre ou de terre, mais nullement vitrifiés.
+
+Quant au globe de feu que plusieurs personnes ont remarqué lors de l'explosion et de la chûte de la foudre, ne serait-il pas lui-même le feu, la matière électrique qui est attirée par la terre ? Cette idée n'est pas hors de vraisemblance.
+
+106\. M. Gronberg, dit ensuite l'auteur du journal, aurait dû ajouter que ces pierres, ou plutôt ces scories métalliques sont très-rares ; et cependant il n'est aucun ouvrier travaillant sur les métaux, principalement sur l'or et sur l'argent, qui ne dise avoir une pierre de tonnerre. Il est bien démontré aujourd'hui que presque toutes sont des pierres dures et polies, et communément brunes ou noires. Leur conformation est le résultat de l'art et de la patience. Les Sauvages de l'Amérique, _etc._ L'auteur du journal rapporte ici ce qu'on a déjà vu dans le mémoire de M. de Jussieu, n°. 5.
+
+N°\. 14.
+
+_A M. Pictet, l'un des rédacteurs de la Bibliothèque Britannique_.
+
+107\. En lisant la seconde des intéressantes lettres que vous avez écrites d'Angleterre à vos coopérateurs, et dans laquelle vous parlez des pierres qu'on croit être tombées des nuages, je formai le projet de vous communiquer un fait à l'appui des nouvelles idées qui semblent germer à ce sujet, et sur lequel je n'ai sérieusement réfléchi que depuis la lecture de votre lettre insérée dans les n°s. 135, 136 de la Bibliothèque Britannique.
+
+108\. Le 24 juillet 1790, vers neuf heures du soir, il parut à Agen un globe de feu très-considérable, et qui fut aussi apperçu des départemens voisins. Ce météore ayant parcouru un certain espace dans l'atmosphère, laissant après lui une traînée de lumière qui dura au moins cinquante secondes, eclata avec un bruit et une scintillation très-remarquables. Vous pouvez voir dans les n°s. 23 et 24 du journal _des Sciences utiles_, année 1790, la description qui fut faite alors de ce météore, par l'un de mes compatriotes. Vous y verrez encore les raisonnemens de Bertholon, rédacteur du journal, sur la chûte des pierres, dont on disait que celle du météore avait été accompagnée. En correspondance avec Bertholon, je lui avais adressé la relation de mon compatriote ; je lui racontai ce qu'on disait des pierres en question.
+
+109\. Après m'être amusé avec lui de ce que nous regardions comme un conte populaire, je trouvai plaisant de faire constater une _pareille absurdité_ par un acte authentique, et je demandai sur les lieux un procès-verbal qui rendît témoignage de la chûte de ces pierres. Ce procès-verbal, sur lequel je ne comptais guère, arriva cependant bientôt après. Je ne vis dans cette pièce qu'une nouvelle preuve de la crédulité des habitans des campagnes. Je l'envoyai à Bertholon, qui, l'envisageant sous les mêmes rapports, le publia dans les n°s. 23 et 24, 1791, de son journal, pages 125 et suivantes. Ainsi ce procès-verbal, signé par les maire et procureur de la commune, fut traité comme une attestation mensongère, ou du moins illusoire : une note qui m'était parvenue avec le verbal, et qui portait le témoignage de trois cents personnes, eut le même sort, parce que nous regardions le fait attesté comme évidemment faux et _physiquement impossible_.
+
+110\. Depuis cette époque, citoyen, tout cela s'était entièrement effacé de ma mémoire. J'avais oublié le météore, les pierres et le procès-verbal, lorsque la lecture de votre lettre me rappela ce phénomène, qui me parut alors digne d'une attention plus sérieuse. En lisant la description des pierres qu'on vous a dit être tombées des nuages, je me souvins qu'on avait joint au procès-verbal un échantillon des pierres dont il constatait la chûte. Je courus à mon cabinet où j'avais par hasard conservé cet échantillon. Quelle fut ma surprise, j'ose dire mon ravissement, quand je reconnus, dans cet échantillon, une identité frappante avec ceux que vous décrivez. Surface brûlée, cassure grenue, apparence métallique dans l'intérieur ; il est impossible de n'être pas très-étonné d'une pareille ressemblance.
+
+111\. Cette nouvelle observation d'un fait qui semble concourir avec beaucoup d'autres à changer les idées reçues sur ce phénomène, m'a paru digne de vous être communiquée. Si elle ne produit pas chez moi la conviction, il me paraît au moins très-remarquable que toutes les pierres auxquelles on attribue, dans différens pays, la même origine, présentent exactement les mêmes caractères, et je demeure convaincu que, quelqu'absurde que paraisse l'allégation d'un fait en physique, il faut suspendre son jugement, et ne point se hâter de regarder ce fait comme impossible.
+
+Je suis, _etc._
+
+Saint-Amand, _Professeur d'Hist. Nat. à l'Ecole centrale d'Agen._
+
+(Les pièces suivantes, que je mets sous même numéro, parce qu'elles ont pour objet le même phénomène, m'ont été communiquées par MM. Pictet et Darcet. Je dois celles cotées _d_, _e_, _f_, au célèbre professeur de Genève, qui m'a donné d'ailleurs, sur ce phénomène en général, toutes les notions qu'il en avait lui-même, avec cette bienveillance qui caractérise les vrais savans. Celles qui sont cotées _a_, _b_, _c_, je les dois à M. Darcet, fils du célèbre chimiste dont il suit si bien les traces, tant dans la carrière des sciences, que dans celle des qualités morales qui le rendirent si cher à tous ceux qui l'ont connu, et que deux de ses collègues* ont si bien dépeinte à ceux qui n'eurent pas cet avantage).
+
+*) M. Fourcroy, dans le Discours qu'il prononça sur la tombe de Darcet, le...  
+M. Cuvier, dans sa Notice lue à la Séance publique de l'Institut, le 15 Germinal an 10.
+
+N°\. 14. _a._
+
+_Extrait d'une lettre écrite de St.-Sever._
+
+25 Juillet 1790.
+
+112\. « Hier nos habitans éprouvèrent un trouble et une crainte extraordinaires. Vers neuf heures un quart, il parut tout-à-coup, dans l'air, un globe de feu, traînant une longue queue, qui répandit dans l'horizon une lumière des plus éclatantes. Ce globe disparut bientôt et sembla tomber à une centaine de pas. Peu après on entendit une explosion, dont ni canon, ni tonnerre n'égalent le bruit : chacun craignit périr sous les ruines de sa maison dont la charpente semblait se briser. Le même fut vu et ressenti dans les villes voisines, telles que Mont-de-Marsan, Tartas et Dax. Le temps était d'ailleurs très-calme, pas un vent, pas un nuage, un clair de lune superbe. »
+
+N°\. 14. _b._
+
+_A M. Darcet, docteur-régent de la Faculté de Médecine de Paris._
+
+A Mormès, près Nogaro, 14 Septembre 1790.
+
+Monsieur,
+
+113\. « J'espère que vous voudrez bien recevoir, avec indulgence, le faible essai que je prends la liberté de vous adresser, et en faire hommage, pour moi, à l'illustre corps dont vous êtes membre. C'est un Mémoire sur un météore arrivé dans ce pays-ci, le 24 Juillet dernier. J'ai gardé jusqu'ici le silence, dans la pensée que des gens plus capables que moi écriraient là-dessus. Mais ayant vu, dans un papier public, un exposé très-inexact de ce phénomène ; apprenant d'ailleurs qu'à Paris on voulait absolument que ce fût l'effet d'un nouveau volcan ouvert dans les Pyrénées, je me suis cru obligé de combattre cette erreur, et de donner une idée plus exacte du phénomène, d'après ce que j'ai vu moi-même, et d'après les instructions que j'ai pu me procurer des personnes sûres et éclairées. »
+
+« Je joins au Mémoire une des pierres que le météore a produites et lancées. J'espère, Monsieur, que vous voudrez bien en faire aussi hommage à Messieurs de l'Académie, _etc._ »
+
+J'ai l'honneur d'être, _etc._
+
+Baudin.
+
+N°\. 14. _c._
+
+_A M. Darcet, docteur-régent de la Faculté de Paris, par M. Darcet, son frère, curé de la Bastide._
+
 ...
