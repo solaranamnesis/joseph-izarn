@@ -380,4 +380,38 @@ N°\. 14. _c._
 
 _A M. Darcet, docteur-régent de la Faculté de Paris, par M. Darcet, son frère, curé de la Bastide._
 
+114\. « Vous trouverez ci-incluse la petite pierre que vous m'avez demandée ; elle fut ramassée le lendemain de l'explosion du globe en question. J'ai pris toutes les mesures possibles pour m'assurer du fait ; il y a déjà huit jours que je voulais vous l'envoyer ; mais j'ai voulu éclaircir le tout ; et en cela, j'ai agi conformément à votre intention. J'ai une observation à vous faire, elle me paraît digne d'attention. Quand ces pierres sont tombées, elles n'avaient pas la dureté qu'elles présentent aujourd'hui. Il y en a qui sont tombées sur des pailles, et ces pailles se sont attachées à ces pierres, et comme identifiées. J'en ai vu une dans ce genre ; elle est à la Bastide. Je n'ai pu décider le propriétaire à me la céder. Je voulais vous l'envoyer ; vous auriez vu par vous-même ce qui en est ; mais soyez sûr que ce que je vous dis là-dessus est vrai : celles qui sont tombées sur les maisons ne rendaient pas en tombant le son d'une pierre, mais celui d'une matière qui n'est pas encore bien compacte. Je ferai de nouveaux efforts pour avoir celle dont je viens de parler ; et si vous ne la recevez pas bientôt, il n'y aura pas de ma faute, _etc._ »
+
+_Signé_ Darcet, curé de la Bastide.
+
+N°\. 14. _d._
+
+_Procès-verbal communiqué à M. Pictet, par M. Saint-Amans._
+
+115\. L'an mil sept cent quatre-vingt-dix et le trentième jour du mois d'Août, nous sieur Jean Duby, maire, et Louis Maullon, procureur de la commune de la municipalité de Lagrange-de-Julliac, et Jean Darmite, habitant de la paroisse de Lagrange-de-Julliac, certifions vraiment véritable que le samedi 24 Juillet dernier, vers les neuf à dix heures du soir, a passé un grand feu ; et à la suite, nous avons entendu, dans les airs, un grand coup extraordinaire ; et environ deux minutes après, il tomba du ciel des pierres ; mais heureusement il n'en tomba que très-peu, et elles tombaient à environ dix pas l'une de l'autre à certains endroits, et à d'autres plus proches, et finalement à d'autres endroits plus éloignées, et tombant de la pesanteur d'environ demi-quart de livre chacune la plus grande partie ; quelques autres d'environ demi-livre, qui s'est trouvé sur notre paroisse de la Grange ; et sur un côté de la paroisse de Créon, il s'en est trouvé du poids d'une livre ; et en tombant, elles ne paraissaient pas enflammées, mais fort dures, et noires au-dehors, et au-dedans couleur d'acier ; et, graces à Dieu, elles n'ont porté aucun préjudice sur les personnes ni sur les arbres, à l'exception de quelques tuiles qui ont cassé sur les maisons, et la plus grande partie tombèrent doucement, et d'autres tombèrent en siflant avec rapidité ; et il s'en est trouvé quelques-unes qui sont entrées sur la terre, mais très-peu ; en foi de quoi avons fait le présent, et signé,
+
+Duby, maire ; Darmite.
+
+_N. B._ M. de Carris, seigneur de Barbotan, député à l'Assemblée nationale, a emporté, à Paris, plusieurs de ces pierres, dont deux pèsent environ vingt-cinq à trente livres.
+
+N°\. 14. _e._
+
+_Extrait de diverses lettres écrites à M. Saint Amans, par M. Goyon-d'Arzas._
+
+De la Sale, 7 Août 1790.
+
+116\. On n'a pu, dans ces premiers momens, que former des conjectures très-fondées, il est vrai, sur la nature du météore brillant qui éclaira notre horizon, il y a aujourd'hui quinze jours ; mais les effets qu'il a produits, effets bien constatés, semblent confirmer tout ce qu'a dit, de sa cause et de sa formation, un naturaliste aussi savant que modeste.
+
+117\. Lors de l'explosion de ce météore, dans la paroisee de Julliac, distante de quatre lieues S. O. de Mesin, et dans d'autres paroisses voisines, il tomba une grande quantité de pierres d'un gris d'ardoise foncé, semblables à du mâchefer, et qui, presque toutes d'une forme ovale et applatie, sont très-dures, très-compactes, très-pesantes à raison de leur volume. Plus ou moins grosses, elles sont d'un poids bién différent : les unes pèsent demi-livre ; les autres, jusqu'à une et deux livres. Des témoins, dignes de foi, assurent que devant la porte d'un fermier il en tomba une du poids de quatre livres : enfin, l'on assure en avoir vu une autre qui pesait vingt-quatre à vingt-cinq livres, laquelle a été portée, comme une curiosité, dans la ville du Mont-de-Marsan.
+
+118\. Ces pierres, généralement assez unies au-dehors, présentent néanmoins sur leur surface quelques fentes ou fêlures longitudinales, au moyen desquelles, à l'aide d'un couteau, on en a fait éclater un portion. Nous en avons sous les yeux un fragment assez considérable.
+
+119\. L'intérieur de ces pierres strié transversalement, offre à l'œil de l'observateur des traces de différentes couleurs affaiblies, qui paraissent autant de veines métalliques, et sur-tout ferrugineuses, très-visibles malgré l'altération que la fusion de leurs parties a du occasionner dans leurs élémens. Ajoutons que, maintenant inaltérable au feu, si on les frotte cependant un peu fort, il semble qu'elles exhalent une odeur de soufre et de bitume décomposé, qui, par la combustion de ces pierres, ont perdu leur phlogistique.
+
+120\. Ces pierres encore toutes rouges, en se dispersant de tous côtés, ont formé cette gerbe lumineuse, cette pluie de feu qui a illuminé l'horizon à une si grande distance, et qu'on a sûrement dû appercevoir de plusieurs points aussi différens qu'éloignés, ... à Julliac, ce météore était élevé presque perpendiculairement, puisqu'à Dax, situé au S. O. de Mesin, il a été apperçu au N. E.
+
+N°\. 14. _f._
+
+Du 19 Août 1790.
+
 ...
