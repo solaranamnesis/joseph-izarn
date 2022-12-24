@@ -437,4 +437,38 @@ Peut-on admettre raisonnablement qu'une petite pierre placée à la bouche d'un 
  
 125\. Le comte de Bristol a envoyé à l'auteur un morceau d'une des plus grosses de ces pierres, qui pesait, dans son entier, plus de cinq livres. Une autre envoyée entière à Naples, pèse environ une livre. Le dehors de toutes ces pierres est noirâtre, et porte tous les caractères d'une vitrification récente. L'intérieur est de couleur gris-clair, mêlé de taches noires, et de quelques particules brillantes qu'on dit être des pyrites (qui auraient été décomposées, si ces pierres étaient des laves). Autant qu'on peut juger à l'œil, de la ressemblance, on trouve sur le Vésuve des pierres de même nature. Si l'on en trouvait dont la surface fût vitrifiée de même, la question serait décidée en faveur du Vésuve, à moins qu'on ne prouvât que quelqu'autre volcan plus voisin du territoire de Sienne (celui de Radieofani, par exemple, éteint depuis long-temps), eût fait une éruption en même-temps que le Vésuve.
 
+126\. Sir William Hamilton avance une autre conjecture : c'est que les cendres volcaniques portées dans l'air jusqu'au territoire de Sienne, et se trouvant là mêlées dans un nuage orageux, auront pu se réunir et se former à la manière de grains de grêle. L'action du fluide électrique aurait pu vitrifier ensuite la surface.*
+
+*) Cette seconde partie de la conjecture ingénieuse de l'auteur, est appuyée par les faits cités §. 1153 et suiv. des voyages dans les Alpes de notre savant compatriote. On a trouvé sur l'aiguille du Gouté, non loin du sommet du Mont-Blanc, des fragmens de granit, dont la surface est parsemée de bulles vîtreuses assez grosses, qui ne peuvent être attribuées, selon M. de Saussure, qu'à l'effet du tonnerre. Il confirme cette supposition par un effet semblable produit sur l'une des briques d'une cheminée foudroyée. Il a même imité ce phénomène en petit, en produisant des bulles vîtreuses microscopiques sur un fragment de pierre de corne soumis à l'explosion, d'une nature électrique, de deux grandes jarres qui offraient ensemble environ 12 pieds quarrés de surface armée. (_Note des Rédacteurs de la Bibliothèque Britannique._)
+
+127\. Le père Ambrosio Soldani, professeur à l'université de Sienne, a publié une dissertation sur ce phénomène, dans laquelle il le considère comme indépendant du Vésuve.
+
+N°\. 16.
+
+_Remarques sur les pierres qu'on dit étre tombées des nuages, soit de nos jours, soit dans des temps anciens_ ; par Edward King, _Esq._, _membre de la Société Royale_. (Bibliothèque Britannique, 1797, Sciences et Arts, t. 6, p. 51.)
+
+128\. L'auteur de l'ouvrage que nous annonçons a recueilli un assez grand nombre de faits, et il y a joint des réflexions intéressantes.
+
+Nous avons cité ailleurs le plus remarquable des phénomènes, du genre de ceux qui sont rassemblés dans cet écrit.
+
+(Les auteurs de la Bibliothèque Britannique rappellent ici les phénomènes dont ils ont eu occasion de parler, et notamment celui dont on vient de voir les détails, N°. 15.)
+
+129\. M. King rapporte plusieurs autres exemples d'événemens semblables, soit anciens, soit modernes ; quelques-uns tirés des livres Sacrés, d'autres d'Hérodien, de Plutarque, de Pline, et de Tite-Live ; et d'autres plus récens arrivés en France, en Espagne, en Allemagne, en Hongrie, _etc._ Il décrit en particulier la masse pierreuse qui tomba à Wold-Cottage, dans le duché d'Yorck, et que le public a vue cette année à Londres. L'auteur rappelle les pluies extraordinaires de cendres qui ont eu lieu dans divers endroits, et la chûte des pierres de foudre dont il a fait graver une, qui tomba à Menabilly, en Cornouailles, et qui pesait environ une once. On trouve, en un mot, dans cet ouvrage, une collection presque complette des faits de ce genre, dont on a conservé les preuves ou la tradition.
+
+130\. Le professeur Soldani, qui a surtout procuré les renseignemens sur les pierres tombées en Toscane, croit que ce sont des concrétions qui se forment dans l'air, par la combinaison de substances minérales exhalées cà et là de la terre ; mais non point, selon lui, du mont Vésuve en particulier : M. King adopte, à quelques égards, cette opinion ; mais il est persuadé que les exhalaisons qui formèrent ces pierres, provenaient de la grande éruption qui eut lieu dans ce volcan la veille du jour où on les vit tomber. Il appuie des mêmes argumens la conjecture par laquelle il regarde le mont Hecla, en Irlande, comme étant la cause première de la formation de la pierre qui tomba à Wold-Cottage, et dont nous venons de parler.
+
+Mais cette pierre que tout Londres a vue pour de l'argent, est-elle réellement tombée des nuages ou d'ailleurs ? Ce sera à nos lecteurs à fixer eux-mêmes leur opinion là-dessus, lorsqu'ils auront parcouru les pièces qui concernent cet événement extraordinaire. Nous les avons trouvées recueillies dans le _Gentleman's Magazine_, et nous les traduisons mot à mot.
+
+_Lettre de M._ Topham, _à James Boaden, esq._
+
+8 février 1796.
+
+131\. Le phénomène très-singulier qui a eu lieu à ma maison de campagne, dans le comté d'Yorck, le dimanche 13 décembre 1795, a excité une curiosité générale. J'étais à Londres alors, et il me fut impossible de savoir rien de plus précis à ce sujet, que quelques détails vagues insérés dans les papiers publics de Londres et des provinces ; et pour m'assurer, par des informations particulières, que le fait avait eu lieu réellement, j'appris, à mon retour ici, qu'il était venu, pendant près de trois semaines, trente à quarante personnes par jour pour voir la pierre qui était tombée, et je trouvai un nombre de lettres qui m'étaient adressées, avec prière de communiquer les détails de l'événement. Voici ce qui m'en est parvenu, et que vous pourrez rendre public si vous le jugez convenable.
+
+132\. Le poids exact de la pierre tombée, et qu'on retira du creux qu'elle s'était formé, était de trois _stones_, treize livres (soit cinquante-six livres). Elle avait fait un creux de douze pouces de profondeur dans la terre végétale, et s'était enfoncée de six pouces plus bas dans la craie solide, d'où il fallut quelque temps pour l'extraire. Elle était encore chaude, et fumait quand on la retira.
+
+133\. Au moment où elle tomba, il y avait un laboureur à neuf verges de distance, et un charpentier avec mon valet d'écurie, à soixante-dix verges. Le laboureur l'apperçut lorsqu'elle était encore à une dixaine de verges du terrein ; et lorsqu'elle tomba, les trois personnes sus-désignées, entendirent un nombre d'explosions à des intervalles assez rapprochés, et de la force à-peu-près d'un coup de pistolet. La pierre est fortement imprégnée de soufre, et avait l'odeur marquée de cette substance lorsqu'elle fut tombée. Son tissu général est celui d'un granit gris, et je ne connais dans le pays aucune pierre de cette espèce. Ce qui rend la chose plus extraordinaire, c'est que le temps était doux et couvert, comme il l'est souvent au mois de décembre dans notre canton quand il ne fait pas de vent. Il n'y eut ni éclairs ni tonnerre pendant toute la journée.
+
+134\. La pierre tomba vers trois heures après midi. Sa direction, autant que j'ai pu le conclure des divers rapports, venait du S. O. On entendit à Bridlington, et dans d'autres villages, des bruits sourds dans l'air, et les habitans crurent que c'étaient divers coups de canon tirés sur mer. Mais dans les deux villages voisins, le bruit de quelque chose qui traversait l'air, près de mon habitation, fut si distinct, que cinq ou six personnes vinrent chez moi pour voir s'il n'y était rien arrivé d'extraordinaire.
+
 ...
