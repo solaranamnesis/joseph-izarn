@@ -471,4 +471,60 @@ _Lettre de M._ Topham, _à James Boaden, esq._
 
 134\. La pierre tomba vers trois heures après midi. Sa direction, autant que j'ai pu le conclure des divers rapports, venait du S. O. On entendit à Bridlington, et dans d'autres villages, des bruits sourds dans l'air, et les habitans crurent que c'étaient divers coups de canon tirés sur mer. Mais dans les deux villages voisins, le bruit de quelque chose qui traversait l'air, près de mon habitation, fut si distinct, que cinq ou six personnes vinrent chez moi pour voir s'il n'y était rien arrivé d'extraordinaire.
 
+135\. La pierre, en s'enterrant, lança autour d'elle une plus grande quantité de terre que ne l'aurait fait une bombe, et la lança plus loin. Lorsque le laboureur fut remis de l'effroi que lui avait causé cette chûte, sa première parole fut de dire, « que les nuages s'étaient ouverts pour laisser passer cette pierre, et qu'il avait cru que le ciel et la terre allaient se confondre. »
+
+136\. Entre les personnes qui sont venues de toutes parts, et qui viennent encore journellement pour voir la pierre, aucune n'a hazardé de conjecture satisfaisante sur son origine. Il n'y en a point de pareille dans le pays. Il ne s'est fait aucune éruption volcanique dans notre voisinage ; sa forme irrégulière et anguleuse montre qu'elle n'a appartenu à aucun bâtiment, et comme la journée n'était point orageuse, il n'y a pas de probabilité que la pierre ait été détachée de quelque roc, d'autant que les plus voisins sont à Flamborough-Head, à la distance de douze milles. Les particularités de cet événement sont maintenant sous les yeux du public ; j'ai soigneusement examiné les rapports fournis par différentes personnes. Ils s'accordent tous sur ce sujet, et d'après ce que j'ai vu, je ne conserve aucun doute sur la véracité des relations. Je laisse aux physiciens à expliquer un événement aussi extraordinaire.
+
+_Signé_, Edward Topham.
+
+137\. Je soussigné certifie, qu'étant dans l'York-Shire, près de la campagne du capitaine Topham, j'entendis un bruit dans l'air comme de coups de canon dans l'éloignement, et je sentis en même-temps deux secousses distinctes sur la terre qui agitèrent les bâtimens de l'église près desquels j'étais alors. Je fus excessivement surpris, n'imaginant pas d'où pouvaient provenir ces apparences. J'appris, très-peu de temps après, qu'il était tombé une pierre à la distance de deux cents verges de moi et d'un domestique de mon oncle. M. William Parke, qui demeure dans le voisinage du capitaine Topham, est une des personnes qui virent tomber la pierre. Je déclare que le rapport ci-dessus est véritable, et je l'atteste par ma signature.
+
+Luke Wilson, négociant, n°. 320, _etc._
+
+138\. Je certifie par la présente que la pierre qui l'accompagne, est bien celle qui est tombée près de ma maison, le dimanche 13 décembre 1795, à trois heures et demie après-midi. Les personnes qui étaient près de là ne virent point d'éclairs, le temps était couvert sans vent ni orage.
+
+Ci-dessous est la note des personnes qui étaient dans le voisinage, lorsque la pierre tomba, et qui m'en ont parlé depuis.
+
+139\. John Shipley, laboureur, déclare qu'il était à la distance de huit à neuf verges de la pierre, lorsqu'elle tomba, qu'il la vit distinctement à sept à huit verges du sol ; puis arrivant à terre, d'où il jaillit beaucoup de terreau autour, ce qui l'alarma beaucoup ; on eût dit qu'il sortait des étincelles, tandis qu'elle tombait. Remis de sa frayeur, il s'approcha de l'endroit avec Georges Sawdon, charpentier, et James Watson, palefrenier du capitaine Topham, et leur aida à sortir la pierre du creux qu'elle avait formé dans la craie : elle était enfoncée d'environ vingt-un pouces ; elle pesait cinquante-six livres : il avait labouré ce même terrein l'année dernière.
+
+_Signé_, John Shipley.
+
+140\. George Sawdon, charpentier, susnommé, déclare que, se promenant avec J. Watson, il entendit un bruit dans l'air, comme des coups de pistolet, et qu'il était à environ cinquante verges du lieu où la pierre tomba. Il est certain qu'il n'y eut aucun éclair dans ce moment. Il s'approcha et vit enterrée, dans la craie, la pierre que J. Shipley avait vu tomber. Il aida à la sortir et à la peser dans la balance de Merlin. Elle pesait 56 livres ; elle sentait fortement le soufre lorsqu'elle fut retiré de terre.
+
+Signé, G. SAWDON.
+
+141\. James Watson déclare avoir ouï dire à plusieurs habitans des villages voisins, qu'ils entendaient, à l'époque où la pierre tomba, des bruits dans l'air, extraordinaires et semblables à des coups de canon sur mer.
+
+S. J. Watson.
+
+Aucune des personnes qui vinrent chez moi, des villages voisins, pour savoir s'il était arrivé quelque chose d'extraordinaire d'après les bruits singuliers qu'elles avaient entendus, n'avaient eu de communication avec les personnes susnommées.
+
+L'enveloppe qui accompagne ces pièces, est du ministre de mon village, le révérend M. Prestin.
+
+_Signé_, Edward Topham.
+
+Wold-Cottage, premier Mai 1796.
+
+142\. Charles Prestin, fils de W. Prestin, âgé de onze ans, jouant sur le cimetière, dimanche 15 Décembre 1795, à trois heures et demie après midi, entendit d'abord un bruit comme celui d'un canon, puis un siflement dans l'air, et il lui parut que quelque chose était tombée près de la ferme du capitaine Topham. Ecrit et signé de ma main, 29 Avril 1796.
+
+W. Prestin.
+
+N°\. 17.
+
+(La notice suivante m'a été communiquée par M. Sage, membre de l'Institut, et professeur de la première Ecole des mines.)
+
+143\. « On m'a remis, en 1798, une pierre qu'on disait être tombée du ciel, dans les environs de Villefranche, département du Rhône, près les bains de Barboutan. Je ne la considérai d'abord que comme une mine de fer attirable et pyriteuse, quoiqu'elle ne soit en rapport avec aucune espèce connue de mine de ce métal, puisqu'elle contient du nikel, de la silice, de la magnésie et du fer natif qui devient brillant comme l'acier, lorsqu'on a poli cette pierre. »
+
+144\. « Elle est d'un gris cendré, grenu, parsemé de points métalliques gris, brillans et pyriteux ; une de ses surfaces est couverte d'une espèce d'émail noir terne, d'environ un tiers de ligne d'épaisseur. Cette pierre agit avec la plus grande activité sur l'aiguille aimantée. Lorsque le sénateur Chasset me l'a remit, elle était accompagnée d'une note historique, conforme à celle que m'a procurée M. Celièvre, de Villefranche, qui a vu et décrit le phénomène sur les lieux. »
+
+145\. « Le 17 Mars 1798, on vit, à six heures du soir, dans les environs de Villefranche, près les bains de Barboutan, à l'est, un corps rond qui répandit la plus vive lumière ; il se dirigea vers l'ouest, et produisit un siflement semblable à celui d'une bombe qui traverse l'air. Ce corps lumineux laissa dans son trajet une trace rouge de feu. Il éclata à environ deux cent toises de terre, en produisant un grand bruit et une commotion dans les environs. Un des éclats embrâsés tomba dans le vignoble du citoyen Crépi, habitant de Salé. La pierre que l'on trouva à l'endroit où l'on avait vu tomber cette partie du météore, était noire et arrondie d'un côté ; elle avait quinze pouces de diamètre : elle avait fait, en terre, un trou d'environ vingt pouces de profondeur et dix-huit de diamètre. »
+
+N°\. 18.
+
+_Observations sur une masse de fer trouvée, en Sibérie, par le professeur Pallas, et sur d'autres masses du méme genre ; avec quelques conjectures sur leurs rapports avec certains phénomènes naturels, par le professeur_ Chladni, _de Wittemberg_. (Tirés du Philosophical Magazine, n°. 5, par les Auteurs de la Bibliothèque Britannique.)
+
+146\. Dans l'un des ouvrages dont la morale retirera le plus de fruit, et la littérature française le plus de gloire, l'Auteur, par une fiction heureuse et sublime, suppose « l'arrivée miraculeuse, sur notre terre, de quelques habitans de l'une des sphères célestes, jetées, comme notre globe, dans l'immensité de l'espace. Nous avons quelques momens, dit-il, la permission de leur parler, le moyen d'en être entendus ; quelles questions leur ferions-nous* ?
+
+*) Cours de Morale religieuse, par M. Neker. Introd. p. 29.
+
 ...
