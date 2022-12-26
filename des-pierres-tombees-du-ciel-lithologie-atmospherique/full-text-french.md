@@ -607,4 +607,87 @@ _Analyse de la pierre de tonnerre ; par Charles Barthold, professeur à l'Ecole 
 
 182\. Cent grains de cette pierre, réduits en poudre, et lavés dans beaucoup d'eau, ont été lavés avec cent grains de carbonnaté de potasse crystallisée, exempte de tout acide sulphurique, et rougie au feu, pendant trois heures, dans une tasse de porcelaine : la masse saline a été réduite en poudre et mise dans l'eau distillée qui, décantée, a été évaporéé après qu'elle fut saturée avec l'acide acétique. A la fin de l'évaporation, il s'est déposé du sulfate de potasse. Pour le séparer de l'acétique de potasse, on a traité la masse saline réduite à siccité avec l'alcool, qui n'a dissous que l'acétite de potasse. Le sulfate de potasse qui ne sé dissolvait pas dans l'alcool pesait neuf grains qui, à-peu-près, contiennent trois grains d'acide sulphurique réel sec ; et cette quantité peut résulter de la combustion de 2.02 grains de soufre.
 
+183\. Pour me convaincre que toute la quantité de l'acide sulphurique qui, dans cette opération, a formé du sulfate de potasse, provient de la décomposition du soufré, comme il aurait pu se trouver dans la pierre, du sulfate de baryte qui, par ce procédé, aurait été décomposé, et dont alors l'acide sulphurique, en se combinant avec la potasse, aurait pu augmenter la quantité du sulfate de potasse, résultée de la transformation du soufre des pyrites en acide sulphurique, j'ai mis la poudre, après qu'elle a été traitée au feu, avec la potasse, et ensuite débarrassée de toutes les parties salines, pendant douze heures dans l'acide acétique. S'il y avait eu de la baryte, elle se serait dissoute dans cet acide ; mais la solution acéteuse n'en présentait aucun indice ; le résidu qu'elle fournissait fut entièrement dissous dans l'acide sulphurique. Ce qui prouve qu'il ne contenait point de baryte qui aurait formé, avec l'acide sulphurique, un sulfalte presqu'insoluble dans l'eau.
+
+184\. Après que l'acide acétique fut décanté de dessus la pierre, je l'ai mise dans l'acide muriatique, et exposée, pendant vingt-quatre-heures, à une température de trente degrés au-dessus de la glace, d'après le thermomètre de Réaumur. A la fin, ce mélange a été bouilli pendant un quart d'heure ; il était épais et gélatineux, et il falait le délayer avec de l'eau pour pouvoir décanter la solution muriatique à laquelle, mêlée avec la solution acéteuse, on a ajouté du prussiate de potasse crystallisé et bien dépuré, jusqu'à ce qu'il ne formât plus de précipité : celui-ci recueilli sur un filtre, et bien lavé, était un prussiate de fer, d'un bleu très-foncé et brillant, pesant, bien séché, quatre-vingt grains qui contiennent à-peu-près vingt grains de fer à l'état métallique.
+
+185\. Après que le prussiate de fer fut séparé de la liqueur acide, on l'a précipité avec du carbonnate de potasse, et on l'a bouilli pendant quelques minutes. Le dépôt qui s'est formé pesait, bien lavé et séché, vingt-quatre grains. Il a été dissous par l'acide sulphurique qui a formé d'abord, et par l'évaporation, trois grains de sulfate de chaux ; l'ayant séparé, on a délayé la solution, et on y a ajouté, à la température de deux degrés au-dessus de la glace, des crystaux de carbonnate de potasse, qui ont précipité neuf grains d'alumine, et par l'ébullition, il s'est encore déposé quatorze grains de magnésie blanche ; celle-ci a resté dissoute dans la liqueur, à une température basse, par l'intermède d'un excès de gaz carbonique qui, en se dégageant par l'ébullition, a laissé déposer la magnésie blanche.
+
+186\. Le résidu que l'acide muriatique laissait indissous, pesait cinquante grains ; il a été fondu avec le double de son poids de potasse, dans une tasse de porcelaine ; la masse saline a été mise dans l'acide muriatique qui en a encore dissous huit grains. La solution muriatique a été précipitée par le carbonate de potasse ; ce précipité était de l'alumine un peu ferrugineuse, faisant la partie que l'acide muriatique avait encore dissoute de ce résidu, fondu avec la potasse.
+
+187\. Il y a des pierres qui, de leurs parties constituantes, dissolubles dans les acides, si elles sont isolées, résistent néanmoins à son action, par leur combinaison intime avec la terre silicée ; en fondant ces pierres avec la potasse, celle-ci, en se combinant avec une partie de la terre silicée, relâche la liaison que les parties terreuses avaient contractée entr'elles ; et si on les présente alors aux acides, ceux-ci n'ont à agir que sur un mélange de différentes terres ; ils n'ont plus de combinaison intime à rompre.
+
+188\. Suivant l'analyse précédente, le
+morceau de pierre dite de tonnerre que j'ai
+employé a contenu,
+
+Soufre|0,02  
+Fer|0,20  
+|0,22
+
+_D'autre part_|22  
+Magnésie|0,14  
+Alumine|0,17  
+Chaux|0,02  
+Silice|0,42  
+Total|97
+
+189\. D'après les caractères extérieurs et l'analyse, je la tiens pour une pierre argilo-ferrugineuse, très-analogue aux roches de corne ferrugineuses, d'un tissu lâche, ou plutôt pour une mine de fer à gangue de roche de corne.
+
+190\. L'aspect extérieur de la cassure, et la manière dont la pierre se comporte au feu seule, et avec le nître et la potasse, prouvent évidemment qu'elle n'a pas encore éprouvé l'action du feu, et qu'elle ne fut pas long-temps exposée aux intempéries de l'atmosphère, qui sûrement auraient opéré des changemens apparens dans sa structure.
+
+191\. Je ne hasarde pas d'expliquer sa formation ; elle paraît toujours secondaire, provenue de la décomposition des roches primitives et d'une précipitation postérieure ; elle aura pu être détachée d'une montagne voisine, et déplacée par de grands courans d'eau dans l'endroit de son gîte, où peut-être elle a été enfouie en terre depuis long-temps. L'éclat des pyrites peut avoir ébloui les gens qui l'ont trouvée les premiers, et comme cela fut par hazard à l'occasion d'un phénomène naturel, l'ignorance et la superstition s'en sont mêlées, et lui ont attribué plus de valeur qu'elle ne mérite, et une existence merveilleuse choquant les premières notions de physique.
+
+192\. On trouve souvent dans les plaines de grands blocs de roche, à une distance assez éloignée des montagnes avec lesquelles leur composition a beaucoup d'analogie. Nous ne connaissons pas encore toutes les révolutions que la surface de notre globe a souffertes, ni tous les moyens dont la nature s'est servie, par pouvoir expliquer toutes les causes des effets que nous observons.
+
+(Ce Mémoire est terminé par des considérations qui conduisent l'auteur a établir que, « les mêmes terres primitives peuvent produire des composés très-différens d'après leurs caractères extérieurs et physiques, suivant que leurs molécules ont pu exercer plus ou moins leur tendance d'affinité à leur réunion. » Il appuie ce principe par plusieurs exemples, et en fait l'application aux pierres de l'espèce de celle dont il vient de donner l'analyse.)
+
+N°\. 20.
+
+_Lettre de_ G. A. Deluc, _aux rédacteurs de la Bibliothèque Britannique._
+
+193\. « Vous avez donné, messieurs, dans le n°. 122 de la Bibliothèque Britannique, un extrait des observations de M. Chladni, professeur de Wittemberg, sur une _masse de fer_ isolée, trouvée en Sibérie, et sur quelques autres masses de cette espèce qui ont été observées ailleurs. »
+
+Tout extraordinaires que soient ces observations, elles peuvent donner lieu à d'autres hypothèses qui s'écartent autant de l'ordre naturel ; c'est pourquoi j'ai pensé qu'il pouvait être utile de vous adresser les réflexions qu'elles m'ont fait naître ; car autant qu'on le peut, on doit garantir la science de l'erreur.
+
+194\. Il s'agit de rendre raison comment ces masses ferrugineuses, dont, suivant la relation, quelques-unes sont d'un très-grand volume, peuvent être isolées à la surface de la terre. Je ne suivrai pas M. Chladni dans tous ses raisonnemens pour établir l'hypothèse, que ces masses viennent de l'atmosphère, et même de bien plus haut ; cette discussion serait beaucoup trop longue.
+
+195\. Je m'attacherai à ceux de ces raisonnemens, qui écartent l'idée d'une cause première intelligente, ayant donné l'existence à l'univers, où tout est lié et se maintient par des lois immuables, pour ne montrer, dans ce grand et sublime ensemble, « qu'une nature agissant sur la matière créée, qui possède la faculté de créer des mondes et des systêmes entiers ; de les détruire et d'en former de nouveaux avec les débris des premiers. » Opinion que l'auteur regarde comme la plus probable.
+
+« Si nous admettons, dit-il, que les corps planétaires ont commencé tout-à-coup d'exister, _etc._ » (_V._ n°. 18, §. 166.)
+
+Quel appareil de suppositions contre toute vraisemblance, et où l'on méconnaît les lois immuables établies par la sagesse suprême, pour maintenir l'harmonie de l'univers, tous les globes qui s'y meuvent dans l'espace qui leur est assigné, et chacun d'eux dans l'ensemble qui lui fut douné ! Et toutes ces suppositions, pour expliquer un fait remarquable, sans doute, mais très-petit, dont on peut trouver l'origine dans des causes na turelles et très-rapprachées !
+
+196\. Mais il n'est pas difficile de remonter à la source des écarts de l'imagination. Elle naît du desir de ne voir dans l'univers qu'un arrangement fortuit de causes aveugles qui peut se détruire comme il a pu se former ; et les naturalistes qui donnent ainsi carrière à leur imagination sur des points de cette importance, en écartant les sentimens d'admiration, et d'admiration religieuse que doit inspirer la contemplation des œuvres du créateur, ne réfléchissent pas à tous les maux qu'ils produisent dans le monde moral.
+
+197\. Je m'arrêterai peu à l'hypothèse qui précède la page que je viens de transcrire où l'auteur cherche à établir que ces masses ferrugineuses peuvent aussi devoir leur origine à ces météores appelés _balles à feu_. Comme si des masses, dont le poids s'élève depuis 16 jusqu'à 336 quintaux, pouvaient contre la gravitation, sans cesse agissante, s'aggréger dans l'atmosphère, et parvenir à ce poids énorme avant de tomber sur la terre.
+
+198\. Une _balle à feu_ observée à Agram, en Croatie, dont le bruit fut entendu dans l'atmosphère, et dont on vit l'explosion, est citée en exemple. Quelque chose d'allumé tomba du ciel, est-il dit ; mais à cause de la distance, on ne sut pas exactement où la chûte avait eu lieu.
+
+199\. L'exemple n'est pas heureusement choisi ; mais où en trouvet un plus réel ? Lors même qu'un observateur eût été précisément au-dessous de l'explosion, il n'aurait rien vu tomber sur la terre. Ces météores se consument, l'explosion finit leur existence ; ils ne laissent pas plus de résidu que le tonnerre.
+
+200\. Il fut un temps qu'on appelait la Bélemnite, _pierre de foudre_, parce qu'on supposait qu'elle se formait dans les nuées, et qu'elle tombait avec le tonnerre. Cette idée, toute étrange qu'elle paraît aujourd'hui, l'est cependant moins que la précédente.
+
+201\. Il est une considération générale qui doit diriger dans toute observation de physique terrestre. Chaque fois que l'apparence d'un objet ne se concilie pas avec une saine physique et une bonne logique, on doit suspendre son jugement, se persuader qu'il est une face de cet objet que l'on ne connaît point, et que la persévérance dans l'observation peut faire découvrir ; car il faut voir beaucoup, et en lieux différens, pour apprendre à bien juger les faits. Souvent l'un sert d'explication à l'autre, parce qu'il a des caractères mieux déterminés. Ou bien on trouvera dans un lieu l'origine des substances qu'on ne rencontre ailleurs qu'isolées, dont on ne pouvait se rendre raison avant d'avoir vu cette origine, et sur lesquelles on était entraîné à former des hypothèses très-éloignées de la vérité. Les exemples en sont fréquens.
+
+202\. Je viens à la description de cette _masse de fer_ trouvée en Sibérie, qui a fait le sujet des hypothèses de M. Chladni, et je présenterai une explication plus naturelle de ce phénomène.
+
+« Cette masse, récite M. Pallas, dont l'origine est si problématique, a été trouvée entre Krasnoyarsk et Abekansk, sur de hautes montagnes d'ardoises, tout-à-fait à découvert. Elle pesait 16 quintaux. Sa figure était irrégulière et comme un peu comprimée ; elle ressemblait à un granit grossier ; on voyait, à l'extérieur, une sorte de croûte ferrugineuse au-dessous de laquelle se trouvait du fer malléable, cassant à chaud, poreux comme une éponge grossière, et dont les cavités étaient remplies d'une substance fragile, dure et vitrifiée, de couleur de jaune d'ambre. On retrouvait cette texture et la substance vitrifiée uniformément dans l'épaisseur de la masse, et sans aucune trace de laitier ni de feu artificiel aux environs. »
+
+203\. Il paraîtrait, d'après le début de cette description, que M. Pallas n'a pas vu lui-même cette masse sur le lieu ; mais telle qu'elle est décrite, voici l'explication naturelle qu'elle présente. Elle a évidemment plusieurs caractères d'une scorie volcanique. Si celles que nous connaissons ne montrent pas du fer pur et malléable comme celle-là, elles en contiennent dans leur substance ; ce n'est donc là qu'une particularité, et les laves en montrent de bien des sortes.
+
+204\. Ainsi l'on a trouvé dans les fentes d'une lave de Stromboli, des lames de fer de plusieurs pouces d'étendue, extrêmement belles et brillantes, posées les unes à côté des autres, qui ont été formées et crystallisées par sublimation, et l'on n'a rien trouvé de semblable, ou qui en approche, dans les autres volcans.
+
+Celui de Vulcano a produit une lave vitreuse très-différente des laves du Vésuve et de l'Etna, et différente de la lave vitreuse du volcan d'Irlande.
+
+205\. Les laves du Vésuve contiennent beaucoup de leucites ou grenats blancs, et l'on n'en connaît point dans celles de l'Etna, et celles-ci contiennent, en grand nombre, des lamelles d'une substance qu'on a nommée Feld-spath, et les laves du Vésuve n'en contiennent point.
+
+206\. La masse de Sibérie est _poreuse comme une éponge grossière_, telles sont les laves qui ont beaucoup de boursouflures, qu'on nomme poreuses par la même raison.
+
+207\. Les cavités de cette masse sont remplies d'une substance _fragile, dure et vitrifiée, d'une couleur jaune d'ambre_. On trouve une substance (espèce de zéolite) dans les fentes d'une lave ancienne de Sandhoff, près de Francfort, qui a ces mêmes caractères et ce coup-d'œil vitreux ; et l'on peut croire qu'un observateur exercé y eût reconnu bien d'autres ressemblances, car cette apparence de _granit grossier_ indique une aggrégation, et l'on a des exemples d'aggrégations très-dures de cendres et de scories volcaniques, au Carlberg, en Hesse, à la colline de Cassel, et à plusieurs autres volcans anciens et modernes.
+
+208\. Il est donc évident que le bloc de Sibérie réunit plusieurs caractères des produits de volcans ; ainsi, c'est dans les produits volcaniques du globe terrestre, qu'il faut chercher son origine, et ne pas se perdre, pour la trouver, dans des spéculations qui n'ont d'autre source que la seule imagination.
+
+209\. La position isolée de cette masse ferrugineuse et de quelques masses semblables, n'a rien de plus extraordinaire que celles de tant de blocs de granit qui reposent de même isolés au milieu de vastes plaines, et sur des montagnes, à d'aussi grandes distances de toute montagne granitique que ces masses de scories peuvent l'être de foyers volcaniques. Cependant on n'a pas appris qu'il soit venu dans l'esprit de personne que ces blocs de granit isolés fussent tombés du ciel ou de l'atmosphère.
+
 ...
