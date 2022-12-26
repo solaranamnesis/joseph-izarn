@@ -690,4 +690,46 @@ Celui de Vulcano a produit une lave vitreuse très-différente des laves du Vés
 
 209\. La position isolée de cette masse ferrugineuse et de quelques masses semblables, n'a rien de plus extraordinaire que celles de tant de blocs de granit qui reposent de même isolés au milieu de vastes plaines, et sur des montagnes, à d'aussi grandes distances de toute montagne granitique que ces masses de scories peuvent l'être de foyers volcaniques. Cependant on n'a pas appris qu'il soit venu dans l'esprit de personne que ces blocs de granit isolés fussent tombés du ciel ou de l'atmosphère.
 
+210\. Quelle comparaison, dira-t-on peut-être ? Ne connaît-on pas le granit et les lieux où il se trouve en couches et en montagnes ? Je répondrai : que lorsqu'on a parcouru les pays volcaniques, on a vu de même les lieux d'où proviennent des matières semblables à ces masses isolées de scories, et qu'alors aussi on apprend à connaître ces scories elles-mêmes et les lieux qui les produisent, et c'est ici une application directe de la considération générale que j'ai présentée ci-dessus.
+
+211\. Dans son voyage aux Hébrides, et en décrivant l'île de _Mull_, M. Faujas rapporte qu'il a trouvé sur des montagnes volcaniques de 250 toises de hauteur, quelques gros blocs de granit isolés, n'ayant aucune adhésion avec la montagne ; cependant il n'y a aucun rocher de granit dans l'île.
+
+212\. Qu'un habitant de cette île, qui n'en sera jamais sorti, ou qui n'aura vu aucun rocher de granit sur les côtes voisines, porte son attention sur ces blocs dont la matière est si différente de celle des montagnes sur lesquelles ils reposent, ne serait-il pas tout aussi fondé à les croire tombés du ciel, que la masse de fer scorie trouvée sur des montagnes d'ardoises de Sibérie ? Mais il changerait d'opinion, sans doute, quand il verrait des montagnes de granit, et qu'il apprendrait avec certitude qu'il y en a un grand nombre dans d'autres pays.
+
+213\. Ces masses isolées des scories très-distantes des foyers volcaniques, rendent plus probable l'opinion que mon frère a exposéé dans ses ouvrages de géologie, sur la cause qui a répandu à la surface du globe, sur les hauteurs comme dans les plaines, tant de fragmens de granit et d'autres roches primordiales, dont plusieurs sont d'une grosseur énorme ; car des courans de la mer, quelque rapidité qu'on leur suppose, ne pourraient que les rouler sur les fonds, en leur accordant cette puissance, mais non pas les élever et les porter à de grandes hauteurs.
+
+214\. Il pense donc que, lors de l'affaissement partiel des couches qui a laissé debout les éminences qui forment nos montagnes, la pression et le dégagement, sans inflammation, des fluides expansibles extérieurs, poussèrent au dehors les fragmens de couches brisées ; et j'ajouterai, que l'extrême agitation de la mer qui dut en résulter, a pu contribuer à les répandre dans les environs des centres d'explosion. Il est en effet plus naturel de penser que ces masses isolées de scories, viennent de matières volcaniques souterraines déjà formées, rejetées au dehors par la même cause, plutôt que de laves venues à la surface du sol par des éruptions ; tout foyer volcanique apparent étant vraisemblablement très-éloigné.
+
+215\. Les blocs de granit qui reposent sur les montagnes volcaniques de l'île de _Mull_, ne peuvent y avoir été portés que par cette même cause qui les a répandus si généralement, car les bouches volcaniques ne lancent pas d'aussi grosses masses.
+
+216\. Les fragmens des roches granitiques et micacées qu'on trouve sur le Vésuve, jetés par ce volcan parmi les cendres et les scories, sont d'un petit volume, et ils ont le vif de leurs angles et de leurs arrêtes, ce qui indique qu'ils ont été rompus à des couches souterraines. Quelques-uns sont intacts, d'autres sont plus ou moins altérés par le feu.
+
+217\. Je terminerai ces réflexions, qui sont bien suffisantes pour démontrer que la masse ferrugineuse de Sibérie est d'origine terrestre et volcanique, par cet avertissement aux jeunes observateurs :
+
+« Qu'ils se gardent de fonder aucune hypothèse sur cette opinion : que les masses, qui ont fait le sujet des observations de M. Chladni, proviennent d'aggregations formées dans l'atmosphère ou hors de ces limites, lors même que leur chûte prétendue serait certifiée par des attestations ; car il est très-apparent qu'ils donneraient à ces hypothèses un fondement semblable à la _dent d'or_ ou au _clou de cuivre à tête carrée_, des rochers calcaires de Villefranche, ou encore _au fer à cheval_, des couches gypseuses de Montmartre. »
+
+218\. Ainsi, messieurs, nous n'avons pas, dans ces masses ferugineuses, des _échantillons_ de la matière d'une autre planète ; nous n'apprendrons pas par elles de quelle substance un autre monde est composé : elles ne montrent rien qui soit étranger à notre globe. Elles ont tout simplement apporté au jour une matière, qui, sans cela peut-être, serait inconnue, comme les éruptions volcaniques montrent quelquefois à leurs observateurs, des espèces de crystaux, que les couches qui sont à la portée de notre observation ne produisent pas.
+
+Genève, 5 Juillet 1801.
+
+(_Biblioth. Britan., n°. 3 du 17e. v., p. 809._)
+ 
+N°\. 21.
+
+_Lettre de M. L. Patrin, membre associé de l'Institut national, aux Rédacteurs de La Bibliothèque Britannique._ (Extrait du n°. 2, t. 18, pour 1801.)
+
+219\. « Le n°. 122 de votre excellent journal, contient un mémoire de M. Chladni, professeur à Wittemberg, où il rend compte de l'origine de la fameuse masse de fer trouvée en Sibérie, et décrite par Pallas, en disant qu'elle provient d'un de ces météores enflammés qui se manifestent dans l'atmosphère. »
+
+Suivant lui, ces météores ne sont autre chose que des masses ferrugineuses qui viennent des _régions célestes_ jusqu'à notre globe, soit qu'elles proviennent des débris de quelque grand corps planétaire, soit qu'il existe dans l'espace de petites accumulations de cette matière ferrugineuse, qui, mise en mouvement par quelque force de projection ou d'attraction, vont en ligne droite jusqu'à ce que le voisinage de quelque grand corps les fasse dévier en les attirant à lui. Celles qui se dirigent vers la terre, sont enflammées par la rapidité de leur mouvement à travers notre atmosphère.
+
+Cette hypothèse de M. Chladni a été réfutée par. M. G. A. Deluc, dans sa lettre que vous rapportez (n°. 134 de votre journal), et il soutient en même temps que cette masse de fer est un produit volcanique.
+
+220\. Ces deux opinions paraissent également inadmissibles : celle de M. G. A. Deluc est contredite par des faits dont il n'a pas eu sans doute connaissance.
+
+221\. Celle de M. Chladni présente de grandes difficultés ; ce savant est d'abord forcé de convenir que la marche de ces météores est à-peu-près _parallèle à notre horizon_. Or il est évident que s'ils venaient indifféremment de tous les points de l'espace, on les verrait aller dans toutes sortes de direction, quelques-unes même devraient tomber perpendiculairement sur la terre.
+
+222\. Leur inflammation, attribuée à la rapidité de leur course dans notre atmosphère, n'a pas plus de vraisemblance : ils se montrent à une si grande élevation au-dessus de la terre, que, du sommet des plus hautes montagnes, ils paraissent aussi éloignés que quand on les voit de dans la plaine ; et l'on sent bien qu'à une pareille élévation, l'air est trop rare pour occasionner un frottement capable d'enflammer une masse de fer.
+
+223\. Une autre raison encore paraît bien propre à faire attribuer une cause différente à ces météores, c'est qu'ils ne se manifestent que pendant les plus grandes chaleurs de l'été, et qu'ils sont d'autant plus fréquens et plus éclatans, que la journée a été plus chaude. Cela prouve que ces météores ont une connexion immédiate avec l'état de notre atmosphère ; car s'ils avaient une origine éloignée de la terre, on les verrait indifféremment dans toutes les saisons, et la température de notre planète n'aurait pas plus d'inflence sur leur apparition que sur celle des comètes.
+
 ...
