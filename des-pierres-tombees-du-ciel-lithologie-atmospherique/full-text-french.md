@@ -732,4 +732,32 @@ Cette hypothèse de M. Chladni a été réfutée par. M. G. A. Deluc, dans sa le
 
 223\. Une autre raison encore paraît bien propre à faire attribuer une cause différente à ces météores, c'est qu'ils ne se manifestent que pendant les plus grandes chaleurs de l'été, et qu'ils sont d'autant plus fréquens et plus éclatans, que la journée a été plus chaude. Cela prouve que ces météores ont une connexion immédiate avec l'état de notre atmosphère ; car s'ils avaient une origine éloignée de la terre, on les verrait indifféremment dans toutes les saisons, et la température de notre planète n'aurait pas plus d'inflence sur leur apparition que sur celle des comètes.
 
+224\. Depuis le mémoire du docteur Chladni, j'ai profité de toutes les belles soirées pour observer les météores qu'on appelle _étoiles tombantes_, ou _étoiles qui filent_ ; et j'ai remarqué, 1°. qu'elles se montrent presque toujours dans le voisinage du zénith, ou tout au moins à 60 degrés au-dessus de l'horizon ; 2°. que sur 20 de ces météores, il y en a 17 ou 18 dont la marche est à-peu-près du Nord au Sud : il m'a semblé qu'ils suivaient la direction du vent, et je n'en ai apperçu aucun lorsque c'était le vent du Midi qui régnait.
+
+225\. Les soirées des 10 et 11 Août sont celles qui m'en ont offert le plus grand nombre, et ces deux journées avaient été extrêmement chaudes, quoique le vent fût au nord-est.
+
+226\. Le 10, à neuf heures et demie, il parut un de ces météores qui était d'un éclat remarquable : il parut près de 50 degrés du N. E. au S. O., et se divisa en plusieurs étoiles, comme les fusées des feux d'artifice. Jusqu'à une heure après minuit, j'en vis environ trente autres, mais qui n'avaient rien d'extraordinaire, et tous, sans exception, eurent, à trés-peu de chose près, leur direction du N. E. au S. O., comme celle du vent, qui était néanmoins très-faible. Je remarquai que dans le nombre, il y en eut 7 à 8 qui se montrèrent précisément dans la voie lactée, ou tout-à-fait dans son voisinage.
+
+227\. La soirée du 11 me présenta à-peu-près le même nombre de météores que la veille, et il y eut une particularité que je n'avais jamais remarquée ; c'est que deux de _ces étoiles_ partirent au même instant à 3 ou 4 degrés de distance l'une de l'autre, et elles parcoururent ensemble 25 à 30 degrés, en dé crivant deux lignes parfaitement parallèles, et s'évanouirent en même temps.
+
+228\. Depuis ces deux soirées, ces météores ont été beaucoup plus rares ; quelquefois même je n'en ai pas apperçu un seul, quoique la journée eût été assez chaude.
+
+229\. Le Journal _le Citoyen Français_, du 4 fructidor (22 août), dit que le 19 juillet on a vu, à Pétersbourg, sur les dix heures du soir, un globe de feu, allant dans la direction du N. E. au S. O. ; et il ajoute que la chaleur était alors très-forte pour le climat ; le thermomètre y montait à 20 degrés de R.
+
+230\. Le _Journal des Débats_, du 11 fructidor (29 août), dit qu'un météore lumineux a éclaté sur la ville du Pont-de-Vaux, à dix heures du soir (on ne dit pas quel jour). Ce globe de feu paraissait avoir un pied et demi de diamètre ; il s'est divisé en globules enflammés, qui sont tombés dans des jardins, et qui n'ont laissé après eux d'autres traces qu'un peu de fumée presque sans odeur. On ajoute encore que la journée avait été très-chaude.
+
+231\. Le même Journal annonce qu'il y avait eu un orage terrible qui avait ravagé 70 communes dans le département de la Côte-d'Or ; et comme Pont-de-Vaux n'en est éloigné que de quelques lieues, il est probable que ce météore avait de la connexité avec l'orage dévastateur.
+
+232\. Je remarquerai enfin, que ces grands météores, ainsi que les _étoiles tombantes_ les plus éclatantes, se manifest ent toujours peu de temps après le coucher du soleil, et non dans les heures les plus avancées de la nuit.
+
+D'après tous ces faits, l'on peut, ce me semble, regarder comme certain que les météores lumineux ont leur principe dans notre atmosphère même, et qu'ils ne viennent d'aucun autre globe.
+
+233\. Quant aux grandes masses de matière ferrugineuse dont parle M. Chladni, qui pèsent jusqu'à 300 quintaux, et qu'il regarde comme tombées des régions célestes, il y a également de fortes raisons qui repoussent cette supposition.
+
+234\. Lorsque ces masses énormes seraient tombées sur la terre, elles auraient été ou dans un état solide, ou dans un état de fusion. Dans le premier cas, la force immense qu'elles auraient acquise par leur chûte accélérée, les aurait fait pénétrer dans le sol à la profondeur de plusieurs toises, et c'est néanmoins à sa surface même qu'on les a trouvées, quoiqu'assurément le sol argileux d'Aix-la-Chapelle, et le sol crayeux des plaines d'Amérique ne fût guère capable d'opposer beaucoup de résistance à leur choc.
+
+235\. Dans le second cas, c'est-à-dire en supposant que la masse fût dans un état d'incadescence et de fusion, il lui serait arrivé la même chose qu'à une cuillerée de plomb fondu qu'on verserait, d'un troisième étage, sur le pavé ; elle se serait divisée en une multitude de parties, sur-tout si elle était tombée sur une bosse de rochers, comme celle où l'on a trouvé la masse de fer de Sibérie.
+
+236\. Il paraît donc que l'hypothèse de M. Chladni sur l'origine de ces masses ferrugineuses, ne saurait être admise, quelqu'ingénieuse qu'elle soit.
+
 ...
