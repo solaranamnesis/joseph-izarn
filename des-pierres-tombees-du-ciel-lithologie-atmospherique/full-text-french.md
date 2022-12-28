@@ -810,4 +810,32 @@ Je pense que c'est le même agent qui a opéré ces deux effets, et que cet agen
 
 260\. Quant à son transport à la distance de 150 toises, il est bien naturel de penser que l'impulsion qu'elle a reçue du coup de foudre, favorisée par la pente du sol, l'a fait couler jusque sur la bosse inférieure de la montagne, où elle a été arrêtée soit par les sapins dont cette prééminence était couverte, soit par l'inclinaison contraire du terrein qui s'opposait à sa course, comme l'affût d'un canon est arrêté dans son recul par le plan incliné qu'on lui oppose.
 
+261\. L'origine que j'attribue à cette masse de fer est encore justifiée par l'idée qu'en avaient les Tartares, qui la croyaient tombée du ciel ; car il est très-possible qu'en chassant sur cette montagne, quelques-uns d'entr'eux aient été témoins de cet événement, et ils auront cru facilement que la masse de fer venait des mêmes régions que la foudre elle-même : de plus habiles gens que les Tartares y auraient été trompés.
+
+262\. J'ai déjà exposé mon opinion sur ce singulier phénomène dans _mon histoire naturelle des minéraux_ (tom. 5, p. 43), et je proposai de faire une expérience qui serait curieuse, et qui pourrait être tentée facilement dans certains pays. Ce serait de placer une masse de riche minerai de fer sur des supports de verre au sommet d'une montagne ; et pour plus de succès, on pourrait l'armer d'une pointe de fer. Il est probable qu'elle serait frappée de la foudre ; et je présume que cette expérience donnerait un résultat fort analogue à la masse de fer de Sibérie.
+
+(M. Patrin termine ce mémoire par une observation sur une assertion de Mongez, qui, dans une note sur la siagraphie de Bergman, après avoir dit qu'il existe au cabinet du roi, à Paris, un échantillon de cette masse de fer, ajoute : « n peut croire que la masse de fer, trouvée dans la Sibérie par M. Pallas, n'est _qu'un produit de l'art_, puisque l'on remarque que presque tous les morceaux envoyés dans différens endroits, contiennent du verre de toutes couleurs et _du charbon_. » M. Patrin prouve, par une foule de témoignages et par d'autre moyens très-convaincans, que cette assertion de Mongez est entièrement gratuite et dénuée de fondement. Après quoi il ajoute).
+
+263\. « L'existence de cette énorme masse de fer malléable, formée par la nature, étant un fait extrêmement curieux, j'ai cru devoir le rétablir dans toute son exactitude, d'autant plus qu'il me paraît propre à jeter quelque jour sur la formation des métaux natifs qu'on attribue communément à ce qu'on appelle _la voie humide_, c'est-à-dire à une espéce de cémentation ; mais il y a tant de faits qui ne se prêtent point à cette hypothèse, que je serai plutôt porté à penser que le fluide électrique, qui a tant d'influence sur la crystallisation et tant d'affinité avec les métaux, est un des principaux agens que la nature emploie dans cette circonstance. »
+
+N°\. 22.
+
+_Deuxième Lettre de M. Pictet, à ses collaborateurs_. (Bibliothèque Britannique, Sc. et Arts, t. 17, p. 416.)
+
+Edimbourg, 18 Juillet 1801.
+
+264\. Il vous souvient que nous avons parlé à plusieurs reprises, dans notre recueil, de ces pierres qu'on disait tombées des nuages ; il en a été question tout récemment encore à l'occasion du systême de Chladni à leur égard ; c'était là un de ces faits extraordinaires auxquels on ne croit que lentement et à de bonnes enseignes. Déjà M. de Buch m'avait dit _avoir vu_, dans le cabinet de Vienne, une de ces pierres, avec un procès-verbal trés-authentique de sa chûte, en plein jour, devant nombre de témoins. J'en parlais ici historiquement et avec une sorte de timidité ; on me mit fort à l'aise en m'apprenant qu'on ne doutait point du fait ; qu'il existait à Londres, dans diverses collections, des fragmens de ces pierres que je pourrais voir ; et que M. Howard, l'excellent chimiste, à qui l'on doit la découverte du mercure fulminant, allait s'occuper d'en faire l'analyse.
+
+265\. Je me mis à la recherche, et premiérement M. Gréville et ensuite M. Howard m'ont procuré toute satisfaction à ce sujet.
+
+Tous les fragmens que j'ai vus se ressemblent dans leur nature, quoique les pierres soient tombées dans des lieux bien distans. L'un dans le comté d'York, d'autres aux environs de Sienne, un autre en Amérique, et un autre à Bénarès dans l'Inde ; et j'ai vu chez M. Howard, avec un fragment de cette dernière, la lettre d'envoi qui renfermait un détail très-circonstancié de sa chûte.
+
+266\. Ces fragmens ont tous, d'un côté, une croûte noirâtre et un peu vîtreuse. Leur intérieur est blanchâtre sous l'apparence d'un grès grossier, dont les grains seraient plus ou moins arrondis et de grosseur variée. On observe dans les interstices des pyrites disséminés ; et ce qui est bien plus singulier, et à ce que je crois unique, du fer à l'état métallique et malléable, en grains de diverses formes et grosseurs, et en proportion très-notable. Leur contexture ressemble un peu à cette concrétion volcanique qu'on nomme _rapillo_ consolidé, ou plutôt _travertino_, aux environs du Vésuve ; mais elles sont plus denses et plus dures. Leur densité surpasse même celle de la plupart des pierres, et contraste un peu avec leur tissu, dont l'apparence n'est pas très-compacte.
+
+267\. C'est un fait bien singulier que celui de la ressemblance si grande de ces pierres entr'elles, et de leur dissemblance avec ce que nous connaissons d'analogue sur notre terre. Peut-être l'analyse de M. Howard nous fera-t-elle découvrir quelque chose de nouveau dans leur composition. En attendant, je ne puis plus douter du fait de leur chûte, quelle que soit leur origine, _etc._
+
+N°\. 25.
+
+_Expériences et Observations sur certaines substances pierreuses et métalliques, qu'on a dit à différentes époques, être tombées sur la terre_ ; _et Remarques sur différentes espèces de fer natif, par Edward Howard, esq., membre de la Société Royale._ (Extr. des Transactions Philosophiq. ann. 1802.) _Traduction des Annales de Chimie, messidor et fructidor an 10_.
+
 ...
