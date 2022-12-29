@@ -459,7 +459,7 @@ Nous avons cité ailleurs le plus remarquable des phénomènes, du genre de ceux
 
 Mais cette pierre que tout Londres a vue pour de l'argent, est-elle réellement tombée des nuages ou d'ailleurs ? Ce sera à nos lecteurs à fixer eux-mêmes leur opinion là-dessus, lorsqu'ils auront parcouru les pièces qui concernent cet événement extraordinaire. Nous les avons trouvées recueillies dans le _Gentleman's Magazine_, et nous les traduisons mot à mot.
 
-_Lettre de M._ Topham, _à James Boaden, esq._
+_Lettre de M. Topham, à James Boaden, esq._
 
 8 février 1796.
 
@@ -491,7 +491,7 @@ _Signé_, John Shipley.
 
 140\. George Sawdon, charpentier, susnommé, déclare que, se promenant avec J. Watson, il entendit un bruit dans l'air, comme des coups de pistolet, et qu'il était à environ cinquante verges du lieu où la pierre tomba. Il est certain qu'il n'y eut aucun éclair dans ce moment. Il s'approcha et vit enterrée, dans la craie, la pierre que J. Shipley avait vu tomber. Il aida à la sortir et à la peser dans la balance de Merlin. Elle pesait 56 livres ; elle sentait fortement le soufre lorsqu'elle fut retiré de terre.
 
-Signé, G. SAWDON.
+_Signé_, G. Sawdon.
 
 141\. James Watson déclare avoir ouï dire à plusieurs habitans des villages voisins, qu'ils entendaient, à l'époque où la pierre tomba, des bruits dans l'air, extraordinaires et semblables à des coups de canon sur mer.
 
