@@ -943,4 +943,41 @@ _Pierre venant de Bohême._
 
 La croûte noire de cette pierre ressemble à celle des autres ; sa pesanteur spécifique est de 4281.
 
+299\. Il est aisé de voir, d'après les descriptions qui précèdent, que ces pierres, quoiqu'elles n'aient pas la moindre analogie avec aucunes des substances minérales déjà connues, soit de nature volcanique ou autre, ont un rapport singulier entr'elles. Cette circonstance mérite toute l'attention des physiciens et des naturalistes, et elle fait naître le desir de rechercher à quelles causes elles doivent l'existence.
+
+300\. Je vais considérer maintenant les secours que l'on peut tirer de la chimie pour distinguer ces pierres de toute autre substance connue, et pour vérifier l'assertion qu'elles sont tombées sur la terre.
+
+301\. L'analyse, faite par les physiciens français, de la pierre qui leur fut présentée par l'abbé Bachelay, fut en partie dirigée par Lavoisier, dont la perte sera toujours déplorée ; mais elle fut achevée avant que ce célèbre auteur eût enrichi la chimie de ses dernières découvertes, et qu'il eût donné naissance au systême qui l'a rendue si florissante. Le résultat de cette analyse pouvait bien entraîner la conclusion que cette pierre était une matière pyriteuse : elle fut faite malheureusement sur une portion aggrégée de ce composé, et non sur chacune des substances distinctes qu'on y trouve, irréguliérement disséminées. Les proportions obtenues furent donc en conséquence de l'arrangement accidentel de chaque substance dans la masse.
+
+302\. L'analyse de M. Barthold, de la pierre d'Ensishem, est sujette aux mêmes objections. Mais l'avantage que nous avons des descriptions qui précèdent, doit faire présumer que les recherches qui vont suivre seront exemptes d'une semblable fatalité.
+
+_Examen de la pierre de Bénarès._
+
+303\. Cette pierre, comme le comte de Bournon l'a déjà remarqué, a les caractères les plus distincts. A la vérité elle est la seule des quatre suffisamment parfaite (si je puis m'exprimer ainsi), pour être soumise à un genre d'analyse qu'on puisse appeler régulier.
+
+304\. La croûte ou l'enveloppe extérieure noire, est la première substance qui attire naturellement l'attention : après avoir détaché avec un couteau, ou ane lime, une portion de cette croûte, et l'avoir réduite en poudre fine, j'en ai séparé les particules attirables à l'aimant ; j'ai fait digérer la portion inattirable dans l'acide nîtrique, qui fut incontinent décomposé ; mais d'après la forte adhérence de quelques parties intérieures et terreuses de la pierre, je ne pus pas dégager l'enveloppe, ou la partie métallique, sans quelque difficulté.
+
+305\. L'acide étant suffisamment neutralisé, je passai la solution dans un filtre, et la saturai jusqu'à l'excès d'ammoniaque ; il se forma un précipité abondant d'oxide de fer ; et quand cet oxide fut séparé, je vis que la liqueur saline avait une couleur verdâtre. Je l'ai évaporée à siccité, et j'ai redissous le sel desséché dans de l'eau distillée ; il ne se forma aucun précipité pendant l'opération, et la couleur de la solution n'a point été entièrement détruite.
+
+306\. Cette substance me parut avoir les caractères du triple sel décrit par M. Hermstadt,* comme un nitrate ammoniaqué de nickel. En l'examinant avec du prussiate d'ammoniaque, il abandonna un précipité blanchâtre, inclinant à la couleur violette, et par ses différentes propriétés, je fus bientôt confirmé dans l'opinion qu'il contenait du nickel. Depuis lors, j'ai eu plus d'une fois l'occasion de traiter ce trible composé, et puisque M. Hermstadt est le seul qui en ait fait mention, il est nécessaire de donner ici quelques détails sur ses caractères distinctifs.
+
+*) Annales de Chimie, t. 22, p. 108.
+
+307\. Le même chimiste nous apprend que les trois acides minéraux, avec l'ammoniaque, forment des combinaisons semblables avec le nickel pour être dissous par le nitrate et le muriate d'ammoniaque. Le muriate paraît en prendre une plus grande quantité. La couleur de ce sel n'est point uniforme ; il est quelquefois d'un vert de gazon, violet, rose, inclinant au pourpre, et je l'ai vu presque sans couleur. Il paraît pourpre et incliner vers le rose et le violet, quand tout l'oxide du nickel n'est pas uni, soit avec l'acide, soit avec l'alkali ; mais comme ce sel n'est pas en quantité suffisante, le métal est tenu en dissolution par l'excès d'ammoniaque : dans ce cas, l'évaporation précipite ordinairement le nickel dans l'état d'oxide, d'une couleur d'un vert blanchâtre.
+
+308\. Le nickel ne peut pas être _précipité_ du triple sel parfaitement formé, par aucun des réactifs que j'ai essayés, excepté par un prussiate ou un sulphure d'ammoniaque hydrogéné. La potasse et la chaux, ainsi que les autres corps, à ce que je présume, placés dans l'ordre des affinités, avant l'ammoniaque, décomposent ce sel ; mais le nickel est alors retenu en solution par l'ammoniaque qui a été dégagé.
+
+309\. Comme on pourrait croire que j'avais trouvé accidentellement du cuivre, quand j'ai parlé d'une solution ammoniacale violette ou pourpre, il convient d'observer que pour éviter cette erreur, ou j'ai réduit la liqueur à un état de neutralité, et j'ai essayé, sans succès, d'en obtenir un précipité avec une solution de gaz hydrogène sulphuré ; ou, en y ajoutant un léger excès d'acide, et en y plongeant une pièce de fer, je n'ai pu découvrir aucune trace de cuivre. Ces essais, ainsi que beaucoup d'autres, quand ils ne paraissent pas avoir été faits avant l'estimation des quantités de nickel, ont été toujours faits après.
+
+310\. Mais pour retourner à l'incrustation ou à l'enveloppe de la pierre, la décomposition de l'acide nîtritique indique la présence d'une matière au moins à-peu-près métallique, quoique non attirable, et l'examen de la liqueur dont le fer a été précipité, établit la présence du nickel sans aucun doute. La difficulté d'obtenir cette enveloppe de la pierre, assez distincte de la matière qui ne lui appartient pas, ou en suffisante quantité, m'engage à abandonner l'idée de prétendre donner les proportions de ses parties constituantes.
+
+311\. Après que la pierre eut été dégagée de son enveloppe, les particules brillantes, irrégulièrement disséminées dans son intérieur, attirèrent mon attention. J'examinai d'abord les pyrites, leur texture très-lâche fait qu'il est très-difficile d'en recueillir le poids de 16 grains ; ce qui, cependant, a été exécuté par la dextérité du comte de Bournon.
+
+312\. Je les fis digérer à une douce chaleur dans de l'acide muriatique faible, qui agit graduellement, et dégagea une légère quantité, quoique sensible, de gaz hydrogène sulphuré. Après plusieurs heures, je vis que l'acide avait discontinué son action. Toute la partie métallique paraissait dissoute ; mais on appercevait le soufre et les particules terreuses. Le soufre, à raisôn de sa petite pesanteur spécifique, restait suspendu dans la solution, tandis que la matière terreuse, que l'on n'avait pu séparer par les moyens méchaniques, était heureusement restée au fond du vase où s'était faite la digestion. J'en décantai la solution qui retenait encore le soufre suspendu, et je séparai de ce qui appartenait aux pyrites, par des lavages répétés, toute la matière terreuse insoluble, dont la soustraction réduisit le poids réel des pyrites à 14 grains. J'obtins ensuite le soufre par filtration : quand il fut aussi sec qu'il pouvait l'être, sans le sublimer, il pesait 2 grains. J'ajoutai à la liqueur filtrée du nitrate de baryte pour découvrir l'acide sulphurique qui pouvait y être présent, mais il ne se forma aucun nuage. Je séparai ensuite, par le sulphate d'ammoniaque, la baryte que j'y avais ajoutée, et je précipitai le fer avec l'ammoniaque ; la liqueur, lorsque l'oxide de fer se fut précipité, parut d'une couleur pourpre-violet ; elle contenait du nickel que je précipitai avec du gaz hydrogène sulphuré ; car il y avait déjà un suffisant excès d'ammoniaque dans la liqueur saline, pour former un sulphure alkalin hydrogéné. L'oxide de fer, après l'ignition, pesa 15 grains, et le sulphure de nickel, réduit à un oxide, pesa, après le même traitement, quelque chose de plus qu'un grain.
+
+313\. On peut donc admettre que les substances contenues dans les pyrites de la pierre de Bénarès, sont à-peu-près dans les proportions suivantes.
+
+Soufre|2 grains.  
+Fer|10 1/2 grains.
+
 ...
