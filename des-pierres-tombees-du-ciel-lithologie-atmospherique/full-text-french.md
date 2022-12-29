@@ -644,7 +644,7 @@ Total|97
 
 N°\. 20.
 
-_Lettre de_ G. A. Deluc, _aux rédacteurs de la Bibliothèque Britannique._
+_Lettre de G. A. Deluc, aux rédacteurs de la Bibliothèque Britannique._
 
 193\. « Vous avez donné, messieurs, dans le n°. 122 de la Bibliothèque Britannique, un extrait des observations de M. Chladni, professeur de Wittemberg, sur une _masse de fer_ isolée, trouvée en Sibérie, et sur quelques autres masses de cette espèce qui ont été observées ailleurs. »
 
