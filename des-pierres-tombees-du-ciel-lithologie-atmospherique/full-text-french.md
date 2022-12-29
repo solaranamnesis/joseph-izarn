@@ -871,4 +871,76 @@ Le météore parut dans la partie occidentale de l'hémisphère visible, et son 
 
 278\. A l'instant où le météore parut, le ciel était parfaitement serein ; on n'avait pas vu la moindre apparence de nuage depuis le 11 du mois, et on n'en vit paraître aucun pendant plusieurs jours après l'évènement.
 
+279\. J'ai vu huit de ces pierres, à-peu-près entières, outre nombre de fragmens, entre les mains de diverses personnes. Les plus parfaites ont la forme d'un cube irrégulier, arrondi dans ses arrêtes, mais dont les angles sont pour la plupart bien conservés. Leur grosseur varie entre trois et quatre pouces, et plus dans leur grand diamètre. L'une d'elles, de quatre pouces et un quart, pesait deux livres onze onces. Elles se ressemblent toutes très-exactement. Au-dehors, elles sont recouvertes d'une croûte ou incrustation noire et dure qui, dans quelques endroits, ressemble à un vernis ou à du bitume. Sur la plupart on voit des fractures qui, n'étant pas ainsi enduites, paraissent être l'effet de la chûte ou du choc des pierres les unes contre les autres ; elles semblent avoir éprouvé une forte chaleur avant d'arriver à terre. Au-dedans, on trouve un nombre de petits corps sphériques, de couleur d'ardoise, disséminés dans une sorte de grès grisâtre, entremêlés de particules brillantes de nature pyriteuse ou métallique. Les corps sphériques étaient beaucoup plus durs que le reste de la pierre ; le gris blanchâtre s'émiétait par le frottement d'un corps dur ; et lorsqu'on le brisait tout-à-fait, une partie de sable grossier qui en résultait, s'attachait à l'aimant, mais sur-tout la croûte extérieure qui paraissait éminemment attirable.
+
+280\. Comme deux de ces pierres les plus parfaites et des fragmens de quelques autres ont été examinés par plusieurs personnes très-instruites en minéralogie et en chimie, je n'entreprendrai pas de les décrire de nouveau (c'est toujours M. Williams qui parle) ; je ne metrrai en avant aucune conjecture sur la formation de ces productions singulières ; je ne rapporterai pas même celles que j'ai entendu enoncer autour de moi ; je laisserai chacun tirer ses propres conclusions des faits que je viens de rapporter. J'observerai seulement qu'on sait très-bien qu'il n'existe pas de volcans sur le continent de l'Inde, et que je n'ai jamais ouï dire qu'on trouvât, comme fossiles, dans cette partie du monde, des pierres qui eussent la moindre ressemblance avec celles qui viennent d'être décrites.
+
+281\. Il me reste à parler d'une substance dont il est fait mention dans le _Lithophylarium Bornanium, part. 1_, p. 125, et qui est désignée de la manière suivante. « _Ferrum retractorium granulis nitentibus, matrice virescenti immixtis, (Ferrum virens Linn.) cujus fragmenta ab unius ad viginti usque librarum ponderis, cortice nigro scoriaceo circumdata, ad Plann, propè Tabor, circuli Bechinensis Bohemiæ passim reperiuntur_. »
+
+Le fer, ainsi décrit, est rendu encore plus remarquable par la note suivante : (_Quæ fragmenta 3 Julii anni 1753 inter tonitrua è cœlo pluisse credulieres quidam asserunt_).
+
+282\. On sait que la collection du baron de Born fait partie du cabinet du très-honorable Charles Gréville qui, frappé des rapports qu'il appercevait entre les pierres d'Italie et du comté d'York, et la substance ferrugineuse en question, rechercha et trouva, dans la collection de Born, cette matière qu'on affirmait être tombée le 3 de juillet 1753. Je ne dois point anticiper sur le rapprochement qui sera fait des traits de ressemblance des quatre substances actuelles.
+
+283\. Le président de la Société Royale m'ayant fait l'honneur de soumettre à mon examen ses échantillons de la pierre d'York-Shire et de celle de Sienne, M. Gréville et M. Williams me firent la même faveur ; et lorsque j'eus une fois en ma possession quatre substances auxquelles on attribuait la même origine, la nécessité de les décrire minéralogiquement ne tarda pas à se présenter. Personne ne pouvait le faire avec plus de zèle et plus de talent que le comte de Bournon. C'est à lui que je dois les descriptions suivantes.
+
+_Description minéralogique par le Comte de Bournon_.
+
+284\. « Les pierres que je vais décrire, n'affectent point de forme régulière ; et celles qu'on a trouvées entières, c'est-à-dire qui n'ont point été brisées dans leur chûte ou autrement, sont entièrement recouvertes d'une croûte noire foncée, peu épaisse.
+
+Les pierres tombées à Bénarès sont celles qui ont les caractères minéralogiques le plus frappans. Je les décrirai les premières, et je les emploierai ensuite comme objet de comparaison, lorsque je parlerai des autres.
+
+_Pierres de Bénarès._
+
+285\. Ces pierres, de même que toutes celles dont il est question dans ce mémoire, quelle que soit leur grosseur, sont recouvertes en entier de la croûte noire foncée, mentionnée tout-à-l'heure ; elles n'ont rien de luisant, et leur surface est garnie d'aspérités qui lui donnent l'apparence de cette peau de poisson qu'on nomme chagrin.
+
+286\. Lorsque la cassure de ces pierres permet de voir leur intérieur, elles paraissent de couleur grise cendrée, et d'un tissu granuleux semblable à celui d'un grès grossier. On y distingue aisément à la loupe quatre substances différentes.
+
+287\. L'une qui est assez abondante paraît sous la forme de petits corps dont quelques-uns sont parfaitement sphériques ; les autres plutôt ellipsoïdes. Ces grains sont de grosseur diverses, depuis celle d'une petite tête d'épingle, jusqu'à celle d'un pois ou à-peu-près ; on en trouve de plus gros encore, mais en très-petit nombre.
+
+288\. Ces globules sont de couleur grise, tirant souvent sur le brun, et ils sont absolument opaques. On les casse facilement dans toutes les directions ; leur fracture est conchoïde et présente un grain très-fin et compacte, légèrement lustré, et ressemblant jusqu'à un certain point à la cassure de l'émail. Leur dureté est telle, qu'en les frottant sur le verre, ils en enlèvent le poli, mais ils ne le coupent pas. Ils donnent de faibles étincelles avec l'acier.
+
+289\. La seconde de ces substances est une pyrite martiale de forme indéternunée : sa couleur est un jaune rougeâtre, tirant sur la teinte du nickel ou sur celle de la pyrite artificielle : son tissu est granuleux et peu cohérent. Mise en poudre, elle paraît noire. Cette pyrite n'est pas attirable à l'aimant, et elle est irrégulièrement distribuée dans la substance de la pierre.
+
+290\. La troisième offre de petites particules de fer à l'état métallique parfait, et qui s'étendent fort bien sous le marteau ; ces parties donnent à toute la masse de la pierre la propriété d'être attirable à l'aimant. Elles sont cependant en moindre proportion que celles des pyrites dont on vient de parler. On a essayé de pulvériser un fragment de la pierre, et d'en séparer le fer par l'action de l'aimant aussi complètement qu'on l'a pu. Ce fer a paru former les deux centièmes du poids total.
+
+291\. Les trois substances qu'on vient de désigner sont unies entr'elles par une quatrième, dont la consistance est presque terreuse. Elle permet qu'on sépare, avec la pointe d'un couteau, même avec l'ongle, les petits corps globuleux dont on a précédemment parlé, ou telle autre des parties intégrantes de la pierre qu'on veut obtenir. La pierre elle-même peut être cassée par la seule action des doigts. La couleur de cette quatrième substance, qui sert comme de ciment aux autres, est le gris blanchâtre.
+
+292\. La croûte noire qui recouvre la surface de la pierre, quoiqu'elle ne soit pas fort épaisse, donne de brillantes étincelles, lorsqu'on la frappe du briquet. Elle se brise sous le marteau et paraît avoir les mêmes propriétés que l'oxide noir de fer attirable. Cette croûte est cependant, de même que la pierre qu'elle recouvre, mêlée çà et là de particules de fer à l'état métallique. On peut aisément les rendre visibles en passant une lime sur la croûte ; elles paraissaient alors avec le lustre particulier au métal. Cet effet est plus marqué dans la croûte des pierres dont il me reste à parler, parce que la proportion du fer y est beaucoup plus grande ; circonstance que j'indique ici une fois pour toutes. La pierre, dont je viens de parler, n'exhale point d'odeur argileuse, lorsqu'on l'humecte avec le soufle. On peut appliquer la même remarque à toutes les autres.
+
+La pesanteur spécifique de cette pierre est 3352.
+
+_Pierre du comté d'York._
+
+293\. Cette pierre, dont les parties intégrantes sont exactement les mêmes que celles des pierres de Bénarès, en diffère cependant à quelques égards ;
+
+1°\. Elle a un grain plus fin.
+
+2°\. La substance indiquée comme ayant la forme de grains sphériques ou ellipsoïdes, s'y trouve aussi sous diverses formes irrégulières ; circonstance qui n'a pas lieu dans les autres pierres. Ces corps y sont aussi, en général, d'une grosseur moindre.
+
+3°\. La proportion des pyrites martiales, qui ont précisément les mêmes caractères que dans la pierre de Bénarès, y est moindre ; et, au contraire, celle du régule de fer beaucoup plus considérable. J'en ai séparé par l'aimant environ 8 à 9 pour cent du poids total. Plusieurs de ces parcelles de fer étaient assez considérables ; et l'une d'elles, prise dans une pierre que j'avais pulvérisée pour en séparer le fer, pesait plusieurs grains.
+
+294\. Dans cet échantillon, la partie terreuse qui fait les fonctions de ciment, a plus de ténacité que dans les pierres de Bénarès ; elle ressemblait assez pour le coup-d'œil au Feld-Spath décomposé, ou Kaolin ; et la pierre elle-même, quoique peu dure, est cependant plus difficile à briser avec les doigts, que ne l'est la précédente. La pesanteur spécifique est de 3508.
+
+_Pierre venant d'Italie._
+
+295\. Cette pierre était entière, et parconséquent recouverte par-tout de la croûte noire particulière à tous les produits de ce genre. Comme la pierre était très-petite, on fut forcé de la sacrifier toute entière à l'analyse. Son grain était grossier, semblable à celui de la pierre de Bénarès. On y trouvait les mêmes corps gris, globulaires ; la même sorte de pyrites martiales, et les mêmes particules de fer à l'état métallique. La proportion de ces dernières étoit beaucoup moindre que dans la pierre d'York-Shire, mais plus grande que dans celle de Bénarès. La même substance terreuse grisâtre servait de ciment ; et on n'y observait rien de plus, sinon quelques globules composés en entier d'oxide noir de fer attirable à l'aimant, et un seul globule d'une autre substance, qui paraissait différer de toutes celles qu'on vient de décrire. Elle avait un éclat parfaitement vitreux, et était tout-à-fait transparente. Sa couleur était d'un jaune pâle tirant légèrement sur le vert, et sa dureté égalait à peine celle du spath calcaire. Elle était en quantité trop peu considérable pour qu'on pût en opérer l'analyse. La croûte noire qui recouvrait la pierre était plutôt plus mince que celle des pierres déjà décrites, et elle semblait avoir subi une sorte de retrait qui avait occasionné un nombre de fêlures ou de sillons formant des compartimens un peu ressemblans à ceux qu'on remarque dans les _ludi_ ou _septeria_.
+
+La pesanteur spécifique de cette pierre était 3418.
+
+_Pierre venant de Bohême._
+
+296\. Cette pierre ressemble fort, par sa structure interne, à celle de comté d'Yorck. Son grain est plus fin que celui des pierres de Bénarès. On y voit la même substance grise en globules et en parcelles irrégulières, et le fer à l'état métallique. Enfin la même substance terreuse réunit ces diverses parties intégrantes.
+
+297\. Cependant cette pierre diffère essentiellement des autres.
+
+1°\. On ne peut y découvrir les pyrites qu'à l'aide d'une loupe.
+
+2°\. Elle contient beaucoup plus de fer à l'état métallique ; tellement que la proportion de ce métal séparable par l'action de l'aimant, s'élevait à environ 0.25 du poids total de la masse.
+
+3°\. On observe une autre différence, due peut-être au séjour plus long qu'avait fait cette pierre dans le sol où elle était entrée, comparativement aux autres qui en avaient été tirées à l'instant même de leur chûte. Savoir, que les particules de fer se sont oxidées à leur surface ; circonstance qui a produit un nombre de taches d'un brun jaunâtre, et très-voisines les unes des autres dans tout son intérieur. Cette oxidation ajoutant au volume et à la ténacité de la substance que nous avons indiquée comme servant de moyen d'union entre les autres élémens de la pierre, a occasionné un plus grand degré d'adhésion entre ces deux ingrédiens, et rendu l'ensemble plus compacte.
+
+298\. La grande quantité de fer à l'état métallique que contient cette pierre, jointe à sa plus grande ténacité, la rend capable de recevoir un léger poli, tandis que les autres n'en sont point susceptibles. Lorsqu'on l'a polie, le fer se montre très-évidemment formant de petites taches très-voisines les unes des autres, et qui ont la couleur et le brillant métallique du fer. Ces taches sont à-peu-près de grandeur égale entr'elles.
+
+La croûte noire de cette pierre ressemble à celle des autres ; sa pesanteur spécifique est de 4281.
+
 ...
