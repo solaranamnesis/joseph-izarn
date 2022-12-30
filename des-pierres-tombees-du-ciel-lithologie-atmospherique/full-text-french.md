@@ -1013,4 +1013,58 @@ Oxide de nickel|2 1/2.
 
 323\. Il ne nous reste plus à examiner de la pierre de Bénarès que la matière terreuse, qui forme un ciment ou matière pour les substances que nous avons déjà examinées. Cent grains de cette matière furent séparés par des moyens méchaniques, aussi bien qu'il est possible, des pyrites, du fer et des corps globuleux, et je les analysai comme ci-dessus.
 
+Le résultat moyen de deux analyses donne :
+
+Silice|48.  
+Magnésie|18.  
+Oxide de fer|34.  
+Oxide de nickel|2 1/2.  
+|102 1/2.
+
+_Examen de la pierre de Sienne._
+
+324\. L'enveloppe extérieure de cette pierre paraît avoir les mêmes caractères que celle de la pierre de Bénarès.
+
+Quoiqu'il y ait certainement des pyrites, elles n'y sont pas crystallisées en groupe comme dans la précédente, et on ne peut point la séparer par des moyens méchaniques.
+
+325\. Le métal attirable se sépare aisément par l'aimant, mais je n'en recueillis que 8 grains 1/2. Je les traitai avec l'acide nîtrique et l'ammoniaque, comme dans le cas précédent. Il y eut à-peu-près un grain de matière terreuse insoluble. Le poids fut donc réduit à un peu moins de 8 grains. L'oxide de fer précipité par l'ammoniaque, pesa 8 grains, et la liqueur saline donna de nombreuses indications de la présence du nickel. Comme 8 grains de cet oxide de fer contiennent à-peu-près six de métal, la quantité de nickel dans les 8 grains ci-dessus, peut être estimée entre 1 et 2 grains. Je pus extraire quelques corps globuleux, mais pas assez pour les analyser.
+
+326\. Comme on ne pouvait pas séparer les pyrites, je pris 150 grains de la pierre débarassée de fer par l'aimant, et aussi exempts que possible de corps globuleux. Je fis d'abord digérer ces 150 grains avec de l'acide muriatique pour que les pyrites pussent être décomposés, et pour enlever tout ce qui pourrait être dissous par ce menstrue. Il se forma un dégagement très-décidé de gaz hydrogène sulphuré. Quand je vis que l'acide n'agissait plus, je recueillis sur un filtre toute la matière qui ne s'était pas dissoute, et je la fis bouillir avec de l'acide nitrique plus concentré, dans l'espérance de pouvoir convertir le soufre, auparavant mis en liberté, en acide sulphurique ; mais mes efforts furent sans succès ; car je n'obtins qu'une quantité très-insignifiante de sulfate de baryte, par l'addition du nîtrate de baryte à la solution nîtrique rendue auparavant transparente. Le surplus du nîtrate de baryte fut enlevé par le sulfate de potasse. J'édulcorai ensuite complètement la masse qui était demeurée insoluble après l'action des acides muriatique et nîtrique ; et en ajoutant l'eau de l'édulcoration aux liqueurs muriatiques et nîtriques, j'évaporai le tout pour avoir la silice. Je soumis ensuite la masse qui ne s'était point dissoute par les acides et l'eau au traitement avec la potasse, l'acide muriatique et l'évaporation, comme je l'avais fait pour la pierre de Bénarès. La première précipitation fut aussi effectuée dans cette analyse avec le carbonate de potasse ; mais au lieu d'essayer immédiatement d'extraire l'alumine, je fis rougir le précipité pour que l'alumine ou la silice qui restaient pussent être rendues insolubles. Après l'ignition, je séparai l'oxide de fer avec de l'acide muriatique très-concentré, et je chauffai, avec de la potasse, les terres devenues parfaitement blanches, jusqu'à ce qu'elles devinssent de nouveau capables d'être saisies par le même acide. La solution ainsi achevée fut évaporée lentement ; et comme à-peu-près tout se déposa pendant l'évaporation, je conclus que tout était de la silice. Les proportions résultantes de cette simple analyse, sans le poids du soufre contenu dans les pyrites disséminés irrégulièrement dans le tout, furent :
+
+Silice|70.  
+Magnésie|34.  
+Oxide de fer|52.  
+Oxide de nickel|3.  
+|159.
+
+_Examen de la pierre d'York-Shire._
+
+327\. Comme la séparation méchanique des substances de cette pierre était aussi difficilé que dans la précédente, je fus obligé de me contenter de la soumettre au même traitement. Je recueillis cependant 34 grains de particules malléables, lesquels, par le procédé déjà mentionné plusieurs fois, donnèrent 4 grains de matière terreuse, et qui, en fournissant 37 grains 1/2 d'oxide de fer, indiquèrent environ 4 grains de nickel.
+
+150 grains de la partie terreuse de cette pierre furent réduits par l'analyse en
+
+Silice|75.  
+Magnésie|37.  
+Oxide de fer|48.  
+Oxide de nickel|2.  
+|162.
+
+_Examen de la pierre de Bohême._
+
+328\. La probabilité de ne pouvoir jamais obtenir d'autre échantillon de ce fragment très-remarquable de cette substance, ne m'a permis d'en détacher qu'une très-petite quantité pour ne pas abuser de la libéralité de M. Gréville. Je trouvai sa composition semblable à celle des trois pierres précédentes, et le comte de Bournon avait déjà montré que la quantité de métal attirable était proportionnellement très-considérable. 16 grains 1/2 ont abandonné 2 1/2 de matière terreuse étrangère, et ont fourni, par le traitement avec l'acide nîtrique et l'ammoniaque, 17 1/2 d'oxide de fer. Cela paraîtrait indiquer 1 1/2 de nickel dans 14 grains, ou environ 9 pour 100.
+
+329\. 55 grains de la partie terreuse de la pierre, par le traitement analytique des deux premières, ont produit,
+
+Silice|25.  
+Magnésie|9 1/2.  
+Oxide de fer|23 1/2.  
+Oxide de nickel|1 1/2.  
+|59 1/2.
+
+330\. L'augmentation extraordinaire du poids dans le résultat de ces trois dernières analyses, malgré la perte entière du soufre contenu dans les pyrites, est sans doute due à l'état métallique du fer contenu avec le soufre, comme nous l'avons fait voir dans le premier cas.
+
+331\. J'ai maintenant terminé l'examen chimique de ces quatre substances extraordinaires. Il diffère malheureusement de l'analyse faite par les académiciens français, de la pierre qui leur fut présentée par l'abbé Bachelay, aussi bien que de celle faite par le professeur Barthold, de la pierre d'Ensishem. Notre analyse diffère de celle des académiciens en ce qu'ils n'ont trouvé ni magnésie, ni nickel, et de celle de M. Barthold, en ce qu'il n'a point trouvé de nickel, et qu'il y a découvert un peu de chaux avec 17 pour cent d'alumine. Pour expliquer ces différences, je soumets aux chimistes la question de savoir si la magnésie ne peut pas avoir éludé l'action de l'acide avant que l'aggrégation des parties intégrantes de la pierre ait été détruite par le traitement avec la potasse. Quaut à l'existence de l'alumine, je ne la nie pas absolument ; cependant je dois observer que toute la terre qui paraissait avoir quelque ressemblance, quoique légère, à l'alumine, était au plus de 3 pour 100 du total : et il me paraissait qu'il y avait de bonnes raisons de croire que c'était de la silice. Touchant l'existence de la chaux dans la pierre d'Ensishem, j'en appelle au professeur Barthold, pour savoir si, en supposant la chaux une partie constituante, il ne se serait pas formé aussi bien du sulfate de chaux que du sulfate de magnésie, quand l'acide sulphurique s'est trouvé formé par l'ignition des terres et des pyrites. Et, quant à la proportion d'alumine dans la même pierre, je demanderai au moins si elle aurait été aussi considérable, si les solutions fournies par les acides, après le traitement avec la potasse, avaient été évaporées jusqu'à la siccité requise, et l'auteur ne dit point qu'il ait examiné les propriétés de la terre appelée alumine. Quant à la proportion de la magnésie, j'ai la satisfaction de trouver mon analyse correspondante, à très-peu de chose près, avec celle du professeur Barthold ; et si ce qu'il a considéré comme de l'alumine était supposé être de la silice, la pierre présentée à l'Académie française, la pierre d'Ensishem et les quatre que j'ai éxaminées, se rapprocheraient très-fort pour la proportion de leurs parties siliceuses. Quant au nickel, je suis persuadé qu'on l'aurait trouvé dans toutes, si les particules métalliques avaient été examinées séparément.
+
+332\. Mais quelles que soient ces variations, la description minéralogique des académiciens français, de M. Barthold et du comte de Bournon offrent une conformité frappante de caractère commun à chacune de ces pierres. Certainement cette similarité de parties composantes, sur-tout du mélange métallique, ainsi que le grand rapprochement des proportions constituantes de terres contenues dans chacune de ces quatre pierres qui sont le sujet immédiat de ce mémoire, rétabliront une très-forte évidence en faveur de l'assertion qu'elles sont tombées sur notre globe.
+
 ...
