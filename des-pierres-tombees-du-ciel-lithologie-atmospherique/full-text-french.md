@@ -1105,4 +1105,46 @@ _Description de diverses variétés de fer natif, par le comte de Bournon._
 
 349\. Si on examine avec attetion la partie compacte de ce morceau, on appercevra qu'il n'est pas entièrement composé de fer à l'état métallique, mais qu'il est mêlangé avec à-peu-près une égale quantité d'une substance transparente d'un vert jaunâtre (quelquefois aussi d'un jaune verdâtre), dont nous avons déjà parlé dans la description de l'autre échantillon. Cette substance est mêlée avec le fer, de manière que si l'on pouvait enlever toute cette première, la partie restante serait uniquement du fer dans l'état métallique, et présenterait la même apparence cellulaire que l'échantillon précédent, et que la partie ramifiée ou cellulaire du morceau que nous décrivons maintenant.
 
+350\. La partie pierreuse séparée du fer, paraît sous la forme de petits nœuds d'une forme généralement irrégulière, mais quelquefois presque globuleuse ; elles ont une surface parfaitement unie et brillante, de manière à présenter très-souvent l'apparence d'une petite boule de verre, circonstance qui a fait supposer à plusieurs personnes qu'elles étaient le résultat d'une vîtrification réelle. Quelques-uns de ces nodules ont plusieurs facettes irrégulières produites par la compression du fer dans lequel elles ont été enfermées ; mais je n'y ai jamais vu aucune apparence qui pût me faire soupçonner qu'elles eussent la moindre tendance à prendre une forme crystalline déterminée.
+
+351\. Cette substance est toujours plus ou moins transparente ; elle est suffisamment dure pour couper le verre, mais elle n'a aucun effet sur le quartz ; elle est très-fragile ; sa cassure est ordinairement conchoïde ; mais je n'ai pas pu appercevoir qu'elle sa brisât dans aucune direction particulière, de manière à pouvoir considérer une fracture comme lui étant naturelle ; elle devient électrique par frottement ; sa pesanteur spécifique est de 3,263 à 3,300. Elle est très-réfractaire : je l'ai maintenue pendant quelque temps à un degré de chaleur suffisamment fort pour oxider à une profondeur considérable le creuset de fer dans lequel elle était placée, sans lui avoir fait éprouver aucune altération, excepté qu'elle a acquis un plus grand degré d'intensité dans sa couleur. Sa transparence n'était pas du tout diminuée. Je pense aussi qu'il n'y a pas le moindre lieu de la considérer comme une espèce de verre.
+
+352\. De toutes les substances jusqu'à présent connues, celle qui paraît avoir le plus d'analogie avec elle, est le péridot (la chrysolite de Werner), à laquelle quelques minéralogistes l'ont rapportée. Le résultat de l'analyse qu'en a fait M. Howard, est à-peu-près le même que celui du péridot, faite par M. Klaproth.
+
+353\. La dureté et l'infusibilité de cette substance est à-peu-près la même que celle du péridot, mais elle semble avoir un moindre degré de pesanteur spécifique : car, d'après deux crystaux parfaits de péridot, j'ai trouvé sa pesanteur spécifique de 3,340 à 3,375. Les formes crystallines de cette substance, que je viens de décrire, si jamais on pouvait les déterminer, éclairciraient tous nos doutes sur l'analogie qui existe entre ces deux substances.
+
+354\. Si nous considérons la partie compacte de l'échantillon dont nous parlons, particulièrement la forte connexion qui paraît exister entre le fer et la susbtance transparente, et la grande résistance que l'on éprouve quand on veut les séparer, nous ne pourrons pas nous empêcher d'être surpris que presque tous les échantillons de cette masse de fer métallique, qui ont été apportés en Europe, soient dans l'état cellulaire que nous avons décrit, dû apparemment à la totale, ou presque totale destruction de la substance transparente. Mais outre la fragilité de cette substance, l'échantillon en question nous aide beaucoup à expliquer la circonstance précédente, vu que plusieurs des nodules de la substance transparente qui lui appartiennent, sont dans un état de décomposition réelle. Dans cet état, ils sont changés en une substance opaque blanche, qui après avoir été légèrement pressée, ou serrée entre les doigts, se réduit en une poudre sèche et graveleuse. On peut observer cette décomposition dans différens degrés : dans plusieurs des nodules, la substance est devenue seulement friable, sans avoir été très-altérée dans ses apparences ; tandis que quelques-uns qui sont dans un état de décomposition complette, ont une couleur ocreuse d'un jaune rougeâtre ; il est cependant aisé de distinguer que cette couleur ne leur appartient pas, mais qu'elle est due seulement à l'oxidation des particules adjacentes du fer.
+
+355\. D'après les observations précédentes, il n'ést pas difficile de concevoir la possibilité de la totale, ou presque totale destruction de la substance transparente ; et aussi l'apparence que doivent offrir les morceaux de fer quand ils en sont privés. Je ne puis m'empêcher d'observer de même, qu'il paraît exister une analogie très-intéressante entre ces nodules transparens et ces globules que j'ai décrits comme appartenans aux pierres que l'on dit être tombées sur la terre. Cette analogie, quoiqu'elle ne soit pas très-forte, peut nous faire supposer que ces deux substances sont semblables dans leur nature, mais que les globules sont moins purs, et contiennent une plus grande quantité de fer.
+
+356\. Le fer natif de Bohême est une masse compacte, semblable à la partie compacte du plus gros échantillon de fer de Sibérie que nous venons de décrire ; comme celui-ci, il contient aussi un nombre de corps globuleux ou nodules ; mais ils ne sont pas dans une si grande proportion que dans le fer de Sibérie. Ils sont, outre cela, parfaitement opaques, et ressemblent beaucoup aux globules les plus compactes qui appartiennent aux pierres que l'on dit être tombées sur la terre.
+
+_Examen chimique du Fer de l'Amérique méridionale._
+
+357\. J'ai déjà observé que mes expériences coïncidaient avec celles de M. Proust. Il a obtenu 50 grains de sulfate de nickel de 100 grains de cette masse. Le procédé dont j'ai fait mention si souvent, m'a donné 80 grains d'oxide de fer, de 62 de ce métal ; ce qui en indique environ 7 1/2 de nickel, ou environ 10 pour 100.
+
+_Examen du Fer de Sibérie._
+
+Cent grains de ce fer donnent 127 grains d'oxide de fer : ainsi, il doit contenir environ 17 pour 100 de nickel.
+
+358\. La substance jaune appartenant à ce fer fut analysée de la même manière que les corps globuleux et les parties terreuses de la pierre de Bénarès. Les proportions résultantes de l'analyse de 50 grains, et de quelques expériences préalables sur d'autres particules, furent :
+
+Silice|27.  
+Magnésie|13 1/2.  
+Oxide de fer|8 1/2.  
+Oxide de nickel|1/2.  
+|49 1/2.
+
+_Examen du fer de Bohême._
+
+359. Vingt-six grains et demi de ce métal laissèrent environ 1 et 1/2 de matière terreuse insoluble dans l'acide nîtrique, et au moyen de l'ammoniaque, donnèrent 30 grains d'oxide de fer, qui en contiennent, par estimation, à-peu-près 5 de nickel.
+
+_Examen du fer du Sénégal, apporté par le général O'hara, et qui m'a été donné par M. Hatchett._
+
+360\. Dans cette expérience, 199 grains d'oxide furent produits de 145 de métal. Ainsi, on peut, par estimation, porter le nickel à 8 grains pour 145, ou entre 5 et 6 pour 100.
+
+361\. Il paraîtra, en récapitulant ce que nous venons de dire, et les autorités précédentes, qu'un grand nombre de pierres que l'on assure être tombées avec des circonstances semblables, ont précisément les mêmes caractères. Les pierres de Bénarès, la pierre d'York-Shire, celle de Sienne, et un fragment d'une de Bohême, ont entre elles des rapports qui ne sont pas douteux :
+
+1°\. Elles ont toutes des pyrites d'un caractère particulier.
+
 ...
