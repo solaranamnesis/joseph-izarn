@@ -1137,7 +1137,7 @@ Oxide de nickel|1/2.
 
 _Examen du fer de Bohême._
 
-359. Vingt-six grains et demi de ce métal laissèrent environ 1 et 1/2 de matière terreuse insoluble dans l'acide nîtrique, et au moyen de l'ammoniaque, donnèrent 30 grains d'oxide de fer, qui en contiennent, par estimation, à-peu-près 5 de nickel.
+359\. Vingt-six grains et demi de ce métal laissèrent environ 1 et 1/2 de matière terreuse insoluble dans l'acide nîtrique, et au moyen de l'ammoniaque, donnèrent 30 grains d'oxide de fer, qui en contiennent, par estimation, à-peu-près 5 de nickel.
 
 _Examen du fer du Sénégal, apporté par le général O'hara, et qui m'a été donné par M. Hatchett._
 
