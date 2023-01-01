@@ -1195,7 +1195,7 @@ Cette impulsion initiale ne sera point ralentie par l'atmosphère de la lune, ca
 
 _d²x_ / _dt²_ = _gh²_ / (_a_ - _x_)² - _gkh²_ / _x²_
 
-laquelle étant multipliée par 2_dx_, et intégrée, donne
+laquelle étant multipliée par _2dx_, et intégrée, donne
 
 _dx²_ / _dt²_ = _2gh²_(_k_ / _x_ + 1 / (_a_ - _x_)) + *C*
 
