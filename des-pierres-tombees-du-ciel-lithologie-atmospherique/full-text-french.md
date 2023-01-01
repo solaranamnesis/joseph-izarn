@@ -1205,6 +1205,64 @@ _v²_ = _2gh²_(_k_ / _l_ + 1 / (_a_ - _c_)) + *C*
 
 qui servira à déterminer la constante _c_ ; prenant donc la valeur de _c_ dans cette équation, et la substituant dans la précédente, il viendra
 
-1: _dx²_ / _dt²_ = _v²_ + _2gh²_(_k_ / _x_ + 1 / (_a_ - _x_) - _k_ / _l_ - 1 / (_a_ - _c_)) + *C*
+1: _dx²_ / _dt²_ = _v²_ + _2gh²_(_k_ / _x_ + 1 / (_a_ - _x_) - _k_ / _l_ - 1 / (_a_ - _c_)) + *C*.
+
+375\. On peut, au moyen de cette équation, déterminer la plus petite vîtesse de projection, ou la plus petite valeur de _v_, nécessaire pour que le corps atteigne le point où il sera également attiré par la terre et par la lune ; car la vîtesse du corps en ce point devra être supposée nulle ; en sorte que si on appelle _b_ la distance de ce point au centre de la lune, il faudra que l'équation (1) soit satisfaite en y faisant _x_ = _b_ et _dx_ / _dt_ ce qui donnera pour déterminer _v_ l'équation
+
+_v²_ = _2gh²_(_k_ / _l_ + 1 / (_a_ - _c_) - _k_ / _b_ - 1 / (_a_ - _b_))
+
+_b_ sera donné par l'équation _k_ / _l²_ = 1 / (_a_ - _b_)² ; d'ou l'on tire _b_ = _a√k_ / (1 + _√k_) ; substituant cette valeur de _b_ dans l'expression de _v²_, on aura :
+
+2: _v²_ = _2gh²_(_k_ / _l_ + 1 / (_a_ - _c_) - (1 + _√k_) / _a_).
+
+Pour calculer la valeur numérique de _v_, j'ai pris :
+
+_h_ / _l_ = 11/3 ; _g_ = 7 m. 33106 ; _h_ = 6369374 m.
+
+(_Voyez l'Exposition du Systême du Monde, p. 23, 185 et 186._) La parallaxe et la masse de la lune que M. de Laplace a déduites de la théorie, donnent
+
+_h_ / _a_ = 0,016551, et _k_ = 1/68,5.
+
+Ces nombres étant substitués dans l'expression de _v_, on trouve _v_ = 2147 m. par seconde décimale.* Il est facile de voir, d'après cela, que si la vîtesse de projection surpasse 2147 m., le projectile devra nécessairement tomber sur la surface de la terre.
+
+*) Ce résultat est un peu moindre que celui qu'avait trouvé M. Biot (N°. 48 _du Bulletin des Sciences_), parce que la masse de la lune, dont il avait fait usage, était un peu plus forte que celle que M. de Laplace a trouvée por la discussion approfondie de la théorie de la lune. Un physicien anglais, qui, dans le même temps, émettait la même opinion sur l'origine des pierres que l'on dit tombées du ciel, a porté à 12000 pieds anglais (11000 pieds français) la vîtesse de projection nécessaire pour détacher un corps de la surface de la lune ; cette vîtesse est presque double de celle qu'ont trouvée MM. Biot et Poisson. L'erreur du physicien anglais, dit M. Biot (_Bulletin des Sciences, p. 180_), vient probablement de ce qu'il a employé une valeur trop grande pour la masse de la lune ; car on sait maintenant que cette valeur est beaucoup plus petite que celle qui a été donnée par Newton.
+
+376\. In n'en serait pas de même d'un corps lancé de la surface de la terre vers la lune, parce que la résistance de l'atmosphère anéantit bientôt les vîtesses de projection les plus considérables. Mais si l'on voulait faire abstraction de cette cause, on pourrait facilement, par les mêmes principes, trouver la vîtesse de projection nécessaire pour cet effet ; en nommant _u_ cette vîtesse, on trouverait
+
+_u²_ = _2gh²_(1 / _h_ + _k_ / (_a_ - _h_) - ((1 + _√k_) / _a_)²) ;
+
+et en effectuant les calculs numériques, on aurait _u_ = 9564 m. par seconde décimale ; c'est-à-dire, à-peu-près quatre fois et demie la vîtesse nécessaire pour projeter un corps de la lune sur la terre.
+
+Lorsque le corps part de la lune, et que la vîtesse de projection surpasse 2147 m., on peut demander le temps que le corps doit mettre à tomber de la lune sur la terre. Pour calculer le temps de la chûte, il faut intégrer l'équation (1) ; or, en résolvant cette équation par rapport à _dt_, on trouve _dt_ égal à une différentielle qu'on ne peut intégrer exactement par les procédés connus du calcul intégral, que pour deux valeurs particulières de _v_ ; savoir la valeur donnée par l'équation (2) ; et la valeur
+
+_v_ = √( _2gh²_(_k_ / _l_ + 1 / (_a_ - _c_) - (1 - _√k_)² / _a_) )
+
+qui ne diffère de la première que par le signe de _√k_. Nous supposerons _v_ égal à la seconde valeur, parce qu'elle surpasse 2147 m. En la calculant, on la trouvera égale à 2314 m. ; nous aurons alors
+
+_dt_ = √( _a_ / _2gh²_ ) √( _ax_ - _x²_ ) _dx_ / ( _a√k_ + _x_(1 - _√k_) )
+
+et en intégrant,
+
+_t_ = √( _a³_ / _2gh²_ ) 1 / (1 - _√k_)² { -> [] -> [] -> [] -> []
+
+Prenant la valeur de cette intégrale depuis _x_ = _l_, jusqu'à _x_ = _a_ - _h_ ; et effectuant les calculs numériques, on trouvera pour le temps de la chûte du mobile de la lune sur la terre _t_ = 2,65733.
+
+Si l'on appelle _u_ la vîtesse du mobile à la surface de la terre, ou à la distance _a_ - du centre de la lune, on aura, en vertu de l'équation (1)
+
+_u²_ = _v²_ + _2gh²_( _k_ / (_a_ - _h_) + 1 / _h_ - _k_ / _l_ - 1 / (_a_ - _l_) ).
+
+Mettant à la place de _v²_ sa valeur
+
+_2gh²_( _k_ / _l_ + 1 / (_a_ - _c_) - (1 - _√k_)² / _a_ ),
+
+il viendra
+
+_u_ = _2gh²_( _k_ / (_a_ - _h_) + 1 / _h_ - (1 - _√k_)² / _a_ ) ;
+
+d'où l'on tire _u_ = 9603 m.
+
+Ainsi un corps lancé de la lune vers la terre avec une vîtesse de projection de 2314 m. par seconde, mettrait environ _deux jours et demi_ pour tomber sur la terre ; et sa vîtesse, en arrivant dans notre atmosphère, serait de 9603 m. par seconde, _en faisant abstraction de la résistance de l'air_, résistance qui rendrait bientôt ce mouvement uniforme, comme on la déjà dit (311).
+
+377\. Jusqu'ici nous avons fait abstraction du mouvement de la lune autour de la terre : ce mouvement influerait bien peu sur celui des corps qui seraient jetés de la lune sur la terre ; mais en variant la diréction du mouvement primitif, on peut augmenter à l'infini le nombre de chances, pour que le projectile vienne tomber à la surface de la terre : c'est-là ce qui nous reste à examiner.
 
 ...
