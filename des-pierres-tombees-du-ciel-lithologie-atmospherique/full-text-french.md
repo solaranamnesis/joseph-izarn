@@ -1175,4 +1175,36 @@ N°\. 24.
 
 367\. L'hypothèse dont il s'agit, est que ces substances pourraient avoir été lancées de la surface de la lune.
 
+Peut-être, au premier coup-d'œil, trouvera-t-on cette explication bizarre, et peut-être même la traitera-t-on d'absurde ; mais si l'on veut bien faire attention que le phénomène, lui-même, a d'abord été regardé comme une absurdité avant qu'on ne l'eût examiné, tandis qu'à présent il paraît extrêmement difficile de ne pas se rendre aux preuves multipliées qui l'attestent ; on conviendra qu'il faut, avant de décider, entendre et peser les raisons qui peuvent rendre les choses probables.
+
+368\. On sait que l'action de la pesanteur ne s'arrête point à la surface du globe : c'est elle qui, affaiblie par la distance, retient encore la lune dans son orbite. Les corps qui sont à la surface de ce satellite, pèsent à leur tour vers son centre : un corps placé entre la lune et la terre, serait par conséquent soumis à la double action de leurs pesanteurs.
+
+369\. On conçoit donc qu'il doit exister sur la droite qui joint la lune et la terre, mais beaucoup plus près de la première que de la seconde, un point où ces attractions sont égales : un corps qui y serait placé serait en équilibre, et suivant qu'il s'en éloignerait d'un côté ou de l'autre, il tomberait sur la lune ou sur la terre.
+
+370\. Imaginons qu'une cause quelconque, par exemple, une éruption volcanique (car on sait qu'il existe des volcans dans la lune), lance des matières au-delà de ce point d'équilibre : elles descendront vers la terre et viendront s'y précipiter.
+
+Cette impulsion initiale ne sera point ralentie par l'atmosphère de la lune, car on sait par les occultations des étoiles, que cette atmosphère, si toutefois elle existe, n'a presque pas de densité, au lieu qu'à la surface de la terre, les plus grandes forces de projection seraient bientôt anéanties.
+
+371\. Ces pierres lancées par les volcans lunaires s'approcheraient de la terre avec un mouvement accéléré ; tombant de si loin, elles entreraient dans l'atmosphère avec une vîtesse considérable qui s'affaiblirait graduellement par la résistance du fluide, et elles arriveraient enfin sur la surface de la terre avec la vîtesse ordinaire des corps graves, mais probablement échauffées, et peut-être enflammées par le frottement que cette énorme résistance leur aurait fait éprouver.
+
+372\. Si ces substances étaient de même nature que celles qui se trouvent sur la terre, le phénomène ne pourrait être remarqué, et si jamais on venait à le découvrir, ce ne serait que par la rencontre des matières qui seraient entiérement inconnues. Il suffirait donc pour cela, que quelques-unes des substances lancées par les volcans lunaires fussent différentes de celles que présentent sur la terre les éruptions volcaniques. Sans vouloir donner trop de confiance à l'explication que nous venons de développer, nous demanderons si elle ne satisfait pas exactement au phénomène que nous examinons, et à toutes les circonstances dont on atteste qu'ils sont accompagnés : aussi a-t-elle été émise avec autant de sagacité que de réserve par M. Laplace.
+
+373\. Ce que nous venons de dire suffit pour mettre chacun en état d'apprécier le degré de confiance que cette opinion mérite ; mais ceux qui aiment, surtout en physique, ce qui est calculé et mesuré, seront peut-être bien aises de connaître au juste la vîtesse de projection nécessaire pour amener les pierres lunaires jusqu'au point où l'attraction de la lune est égale à celle de la terre. Ce calcul étant fort simple, nous l'exposerons ici, en supposant, pour plus de facilité, le corps lancé suivant la ligne droite qui joint les centres de la lune et de la terre regardées comme immobiles. (M. Poisson, professeur distingué d'une école célèbre, a l'âge où l'on peut être encore écolier, ayant calculé de plus le cas général où la terre et la lune étant en mouvement, le corps serait lancé dans une direction quelconque, c'est son travail que l'on va placer ici, comme étant plus complet).
+
+374\. « Je supposerai en premier lieu, dit M. Poisson, le corps lancé de la surface de la lune vers la terre, suivant la droite qui joint leurs centres, et toutes deux étant immobiles. Dans tous les instans de son mouvement, le corps sera soumis à l'action de deux forces, l'une dirigée au centre de la lune, et l'autre au centre de la terre ; quand il sera parvenu à la distance _x_ du centre de la lune, sa pesanteur vers ce centre, exprimée au moyen de la gravité à la surface de la terre, sera _gkh²_ / _x²_ et sa pesanteur vers le centre de la terre sera _gh²_ / (_a_ - _x_)² ; en représentant dans ces deux attractions par _k_ le rapport de la masse de la lune à celle de la terre, par _g_ la gravité à la surface de la terre, par _h_ le rayon moyen de la terre, et par _a_ la distance moyenne de la lune à la terre, on aura, pour déterminer le mouvement du corps, l'équation différentielle seconde
+
+_d²x_ / _dt²_ = _gh²_ / (_a_ - _x_)² - _gkh²_ / _x_²
+
+laquelle étant multipliée par 2_dx_, et intégrée, donne
+
+_dx²_ / _dt²_ = 2_gh²_(_k_ / _x_ + 1 / (_a_ - _x_)) + *C*
+
+*C* étant la constante arbitraire qui se détermine, en supposant connue la vîtesse de projection ; car si on représente par _v_ cette vîtesse, et par _l_ le rayon moyen de la lune, on trouve
+
+_v²_ = 2_gh²_(_k_ / _l_ + 1 / (_a_ - _c_)) + *C*
+
+qui servira à déterminer la constante _c_ ; prenant donc la valeur de _c_ dans cette équation, et la substituant dans la précédente, il viendra
+
+1: _dx²_ / _dt²_ = _v²_ + 2_gh²_(_k_ / _x_ + 1 / (_a_ - _x_) - _k_ / _l_ - 1 / (_a_ - _c_)) + *C*
+
 ...
