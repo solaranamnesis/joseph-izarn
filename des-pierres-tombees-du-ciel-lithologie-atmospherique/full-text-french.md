@@ -1193,18 +1193,18 @@ Cette impulsion initiale ne sera point ralentie par l'atmosphère de la lune, ca
 
 374\. « Je supposerai en premier lieu, dit M. Poisson, le corps lancé de la surface de la lune vers la terre, suivant la droite qui joint leurs centres, et toutes deux étant immobiles. Dans tous les instans de son mouvement, le corps sera soumis à l'action de deux forces, l'une dirigée au centre de la lune, et l'autre au centre de la terre ; quand il sera parvenu à la distance _x_ du centre de la lune, sa pesanteur vers ce centre, exprimée au moyen de la gravité à la surface de la terre, sera _gkh²_ / _x²_ et sa pesanteur vers le centre de la terre sera _gh²_ / (_a_ - _x_)² ; en représentant dans ces deux attractions par _k_ le rapport de la masse de la lune à celle de la terre, par _g_ la gravité à la surface de la terre, par _h_ le rayon moyen de la terre, et par _a_ la distance moyenne de la lune à la terre, on aura, pour déterminer le mouvement du corps, l'équation différentielle seconde
 
-_d²x_ / _dt²_ = _gh²_ / (_a_ - _x_)² - _gkh²_ / _x_²
+_d²x_ / _dt²_ = _gh²_ / (_a_ - _x_)² - _gkh²_ / _x²_
 
 laquelle étant multipliée par 2_dx_, et intégrée, donne
 
-_dx²_ / _dt²_ = 2_gh²_(_k_ / _x_ + 1 / (_a_ - _x_)) + *C*
+_dx²_ / _dt²_ = _2gh²_(_k_ / _x_ + 1 / (_a_ - _x_)) + *C*
 
 *C* étant la constante arbitraire qui se détermine, en supposant connue la vîtesse de projection ; car si on représente par _v_ cette vîtesse, et par _l_ le rayon moyen de la lune, on trouve
 
-_v²_ = 2_gh²_(_k_ / _l_ + 1 / (_a_ - _c_)) + *C*
+_v²_ = _2gh²_(_k_ / _l_ + 1 / (_a_ - _c_)) + *C*
 
 qui servira à déterminer la constante _c_ ; prenant donc la valeur de _c_ dans cette équation, et la substituant dans la précédente, il viendra
 
-1: _dx²_ / _dt²_ = _v²_ + 2_gh²_(_k_ / _x_ + 1 / (_a_ - _x_) - _k_ / _l_ - 1 / (_a_ - _c_)) + *C*
+1: _dx²_ / _dt²_ = _v²_ + _2gh²_(_k_ / _x_ + 1 / (_a_ - _x_) - _k_ / _l_ - 1 / (_a_ - _c_)) + *C*
 
 ...
