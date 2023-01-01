@@ -1147,4 +1147,32 @@ _Examen du fer du Sénégal, apporté par le général O'hara, et qui m'a été 
 
 1°\. Elles ont toutes des pyrites d'un caractère particulier.
 
+2°\. Elles ont toutes une enveloppe ou un oxide noir de fer.
+
+3°\. Elles contiennent toutes un mêlange de fer et de nickel.
+
+4°\. Les terres qui servent comme de ciment, correspondent dans leur nature, et presque dans leurs proportions.
+
+362\. De plus, dans les pierres de Bénarès, les pyrites et les corps globuleux sont très-distincts : dans les autres, ils le sont plus ou moins, et celle de Sienne a quelques-uns de ces globules transparens. Des météores ou des éclairs, ont suivi la chûte des pierres de Bénarès et de Sienne. Une telle coïncidence de circonstances, et les autorités non douteuses que j'ai citées, doivent, à ce que je pense, éloigner tout doute sur la chûte de ces substances pierreuses ; car nier ce fait à cause de son incompréhensibilité, ce serait refuser de croire à la plupart des trayaux de la nature.
+
+363\. Quant aux espèces de fer appelé natif, elles contiennent toutes du nickel. La masse dans l'Amérique méridionale est trouée, a des concavités, et paraît avoir été dans un état de mollesse ou de chaleur suante, car elle a reçu diverses impressions.
+
+Le fer de Sibérie a des concavités sphériques, globuleuses, en partie remplies d'une substance transparente, qui, excepté la quantité proportionnelle d'oxide de fer, a à-peu-près la composition des globules de la pierre de Bénarès.
+
+Le fer de Bohême adhère à la matière terreuse remplie de corps globuleux.
+
+Le fer du Sénégal a été complettement mutilé avant que j'aie pu l'examiner.
+
+364\. Je ne tirerai aucune conclusion de ces faits, mais je proposerai les questions suivantes : 1°. Toutes les pierres tombées, et ce que l'on appelle fers natifs, n'ont-ils pas la même origine ? 2°. Toutes ces substances, ou quelques-unes d'entre elles, sont-elles le produit ou la matière des météores ? 3°. Et enfin, la pierre d'York-Shire ne peut-elle pas avoir formé un météore dans une région trop élevée pour qu'on pût le découvrir ?
+
+N°\. 24.
+
+(_Extrait du Bulletin des Sciences, de brumaire, an 11._)
+
+365\. « Nous avons parlé dans un de nos derniers numéros d'une espèce particulière de pierres, que l'on n'a jusqu'à présent trouvées qu'en très-petit nombre, et dans des lieux très-distans les uns des autres, mais qui se ressemblent toutes par leur aspect extérieur et leur composition chimique. Nous avons exposé les caractères qui les distinguent de toutes les substances minérales connues jusqu'à présent ; enfin, nous avons rapporté les raisons qui donnent lieu de penser que ces pierres ne sont point naturelles à notre globe, mais qu'elles y sont tombées du ciel à différentes époques. »
+
+366\. « Nous avons dit que ce phénomène, tout étrange qu'il peut paraître, est si peu contraire aux lois de la nature, qu'on pouvait lui assigner une cause, à la vérité hypothétique, mais cependant conforme à toutes les règles de la saine physique ; et qu'on prenne bien garde que nous ne prétendons pas ici assigner une cause réelle et certaine, mais seulement présenter une _supposition_ propre à montrer que le fait de la chûte de ces pierres ne renferme en soi aucune impossibilité. »
+
+367\. L'hypothèse dont il s'agit, est que ces substances pourraient avoir été lancées de la surface de la lune.
+
 ...
