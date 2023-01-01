@@ -1243,7 +1243,7 @@ _dt_ = √( _a_ / _2gh²_ ) √( _ax_ - _x²_ ) _dx_ / ( _a√k_ + _x_(1 - _√k
 
 et en intégrant,
 
-_t_ = √( _a³_ / _2gh²_ ) 1 / (1 - _√k_)² { -> [] -> [] -> [] -> []
+_t_ = √( _a³_ / _2gh²_ ) 1 / (1 - _√k_)² ( (1 - _√k_)√( (_ax_ - _x²_ ) / _a_ ) - (1 + _√k_) arctang. = √(_ax_ - _x²_) + _2k^1/4_ arctang. = ( ( _√(ax)_ - _x²_ ) _k^1/4_ / _x_ ) + cons. )
 
 Prenant la valeur de cette intégrale depuis _x_ = _l_, jusqu'à _x_ = _a_ - _h_ ; et effectuant les calculs numériques, on trouvera pour le temps de la chûte du mobile de la lune sur la terre _t_ = 2,65733.
 
@@ -1264,5 +1264,45 @@ d'où l'on tire _u_ = 9603 m.
 Ainsi un corps lancé de la lune vers la terre avec une vîtesse de projection de 2314 m. par seconde, mettrait environ _deux jours et demi_ pour tomber sur la terre ; et sa vîtesse, en arrivant dans notre atmosphère, serait de 9603 m. par seconde, _en faisant abstraction de la résistance de l'air_, résistance qui rendrait bientôt ce mouvement uniforme, comme on la déjà dit (311).
 
 377\. Jusqu'ici nous avons fait abstraction du mouvement de la lune autour de la terre : ce mouvement influerait bien peu sur celui des corps qui seraient jetés de la lune sur la terre ; mais en variant la diréction du mouvement primitif, on peut augmenter à l'infini le nombre de chances, pour que le projectile vienne tomber à la surface de la terre : c'est-là ce qui nous reste à examiner.
+
+En représentant par _x_, _y_ et _z_ les co-ordonnées rectangulaires d'un point quelconque de l'espace, rapportées au centre de la lune comme origine, et à la droite qui joint ce centre à celui de la terre, comme axe des _x_, on aura pour le lieu des points où un corps serait également attiré par la terre et par la lune, l'équation
+
+_k_ / (_x²_ + _y²_ + _z²_) = 1 / (_z²_ + _y²_ + (_a_ - _x_)²)
+
+dans laquelle _k_ et _a_ ont les mêmes significations que ci-dessus : cette équation étant mise sous la forme
+
+3: _x²_ + _y²_ + _z²_ + (_2akx_ / (1 - _k_)) -  _a²k_ / (1 - _k_) = _o_.
+
+On voit qi'elle appartient à une sphère dont le rayon est égal à _a√k_ / (1 - _k_), et dont le centre se trouve à une distance _ak_ / (1 - _k_) au-delà de celui de la lune. Pour abréger, nous appellerons cette sphère la sphère d'attraction de la lune. Cela posé, supposons qu'un corps soit projeté de la surface de la lune vers la terre, dans une direction qui fasse, avec l'axe des _x_, un angle moindre qu'un droit, et avec une vîtesse assez grande pour que le mobile soit lancé hors de la sphère d'attraction de la lune. Quand il sera parvenu hors de cette sphère, sa pesanteur vers le centre de la lune sera devenue très-petite, et on pourra la négliger dans une première approximation : alors, en vertu de sa pesantaur vers le centre de la terre, le mobile décrira une section conique dont ce centre occupera un foyer ; et par conséquent, il rencontrera la surface de la terre toutes les fois que sa distance périgée sera plus petite que le rayon terrestre.
+
+Si nous représentons par _p_ la distance périgée du mobile ; par _b_ sa distance au centre de la terre, lorsqu'il sort de la sphère d'attraction de la lune ; par _u_ sa vîtesse au même instant ; enfin par _φ_ l'angle que fait la direction de cette vîtesse avec le rayon vecteur _b_, les équations que l'on trouve dans la _Méchanique Céleste, page 190 du tome 1er._ donneront
+
+4: (1 / _b_ - _u²_ / _2gh²_)_p²_ = _b²_ sin²(_φ_) _u_ / _2gh_.
+
+La valeur de _p_ sera donc connue, quand celles des quantités _u_, _φ_ et _b_ seront exprimées au moyen de la vîtesse et de l'angle de projection.
+
+Pour déterminer ces valeurs, je supposerai que la projection a été faite perpendiculairement à la surface de la lune, afin de simplifier les calculs ; de plus je négligerai, dans une première approximation, l'action de la terre sur le mobile, tant que celui-ci restera dans la sphère d'attraction de la lune, et de cette manière, en désignant par _r_ la distance variable du mobile au centre de la lune, j'aurai l'équation _d²r_ / _dt²_ = - _gh²k_ / _r²_ laquelle étant intégrée donne
+
+5: _dr²_ / _dt²_ = _v²_ + _2gh²k_(1 / _r_ - 1 / _l_).
+
+_v_ représentant ici la vîtesse de projection, et _h_, _g_ et _k_ les mêmes quantités que ci-dessus ; ainsi, en appelant _c_ la valeur de _r_, qui répond à la vîtesse _u_, on aura
+
+_u²_ = _v²_ + _2gh²k_(1 / _c_ - 1 / _l_).
+
+L'angle que fait le rayon vecteur _r_ avec la droite qui passe par les centres de la lune et de la terre, varie, à cause du mouvement de la lune autour de la terre : soit _m_ la valeur de cet angle, lorsque le mobile sort de la sphère d'attraction de la lune, et que l'on a _r_ = _c_, en faisant dans l'équation (3) _x²_ + _y²_ + _z²_ = _c²_ et _x_ = _c_ cos(_m_) ; il viendra pour déterminer _c_, l'équation
+
+(_c²_ + _2ak_ cos(_m_)) / (1 - _k_) _c_ - _a²k_ / (1 - _k_) = _o_.
+
+La valeur de _c_ étant connue, on aura celle de _b_ et de sin(_φ_), en observant que l'on a 1 / _b²_ = _k_ / _c²_ et _b_ sin(_φ_) = _a_ sin(_m_).
+
+L'équation (4) devient maintenant (_√k_ / _c_ - _u²_ / _2gh²_) _p²_ = _a²_ sin²(_m_) _u²_ / _2gh²_, où l'on a conservé, pour abréger, les lettres _u_ et _c_ à la place de leurs valeurs.
+
+On voit par cette équation, que la condition _p_ < _h_ peut être remplie d'une infinité de manières différentes, au moyen des valeurs de la vîtesse _v_ et de l'angle _m_. Cet angle n'est pas précisément l'angle de projection ; c'est-à-dire l'angle que faisait la direction du mobile à l'instant de sa projection, avec la droite qui passait au même instant par les centres de la terre et de la lune ; mais comme il sera toujours facile de déterminer le second de ces angles, au moyen du premier, on pourra supposer, dans les applications numériques, que ce soit l'angle _m_ qui soit immédiatement donné.
+
+378\. Pour montrer, par un exemple fort simple, comment on peut satisfaire à la condition _p_ < _h_, je supposerai _v²_ = _2gh²k_ / _l_ et sin(_m_) = _2h_ / _a_, ce qui revient à prendre _v_ = 2236 m., et _m_ = 2° 65. La valeur ci-dessus de _u²_ se réduira à _u²_ = _2gh²k_ / _c_ ; celle de _p²_ deviendra _p²_ = _4√k_ / (1 - _√k_) _h²_, et l'on aura _p_ < _h_ à cause de _k_ = 1 / 68,5. Si l'on veut connaître l'angle de projection qui répond à la valeur prise pour _m_, on y parviendra en calculant le temps qui s'écoule depuis l'instant de la projection du corps, jusqu'à celui de la sortie de la sphère d'attraction lunaire ; car en appelant *T* ce temps, et _n_ le moyen mouvement de la lune, _nt_ sera l'angle décrit par la lune autour de la terre, pendant le temps *T* ; et si l'on suppose, pour plus de simplicité, que le corps ait été projeté dans le plan de l'orbe lunaire, il est facile de voir que l'angle de projection sera exprimé par _m_ - _nt_, ou par _m_ + _nt_, selon que la projection aura été faite dans le même sens, ou en sens contraire du mouvement de la lune : c'est ce dernier cas que nous supposerons avoir eu lieu, afin d'avoir un plus grand angle de projection. On déterminera la valeur de *T*, en résolvant l'équation (5) par rapport à _dt_, l'intégrant ensuite, et prenant la valeur de l'intégrale, depuis _r_ = _l_ jusqu'à _r_ = _c_, on trouvera de cette manière *T* = 0,59939 ; et comme la lune fait sa révolutiôn sidérale en 27,332, il s'ensuit que l'angle _nt_ = 400°. 59939 / 27322 = 8° 77, et par conséquent l'angle de projection sera égal à 11° 42. Ainsi, il résulte de ce calcul, qu'un corps projeté de la lune, avec une vîtesse de 2236 m., et sous un angle de 11 degrés, viendrait tomber sur la surface de la terre.
+
+379\. Je crois inutile de donner d'autres exemples de la manière de remplir la condition _p_ < _h_ ; mais je ferai remarquer qu'il sera aussi très-facile de satisfaire à la condition contraire _p_ > _h_, toutes les fois que l'angle _m_ ne sera pas très-petit : quand cet angle sera, par exemple, égal au tiers d'un angle droit, il suffira, pour qu'on ait _p_ > _h_, que la valeur de _u_ soit plus grande que celle qui serait déterminée par l'équation _4h²_ / _a²_ (_√k_ / _c_ - _u²_ / _2gh²_) = _u²_ / _2gh²_ ; c'est-à-dire plus grande que 44 m. environ. Or, pour qu'une telle valeur de _u_ ait lieu, il suffit que celle de _v_ surpasse de très-peu la vîtesse de projection par laquelle on aurait _u_ = _o_ ; car l'expression de _u²_ en fonction de _v_, étant de la forme _v²_ + une quantité indépendante de _v_, et la vîtesse de projection pour laquelle on aurait _u_ = _o_, étant certainement plus grande que 2000 m., il en résulte qe si _v_ surpasse cette vîtesse d'un mètre seulement, on aura _u²_ > 4000 m., et _u_ > 60 m.
+
+Cette remarque fait voir qu'en admettant l'existence à la surface de la lune, d'une cause quelconque, capable de lancer dans tous les sens des projectiles hors de la sphère d'attraction de la lune, un grand nombre de ces corps resteront dans l'espace pour s'y mouvoir comme des satellites autour de notre planète, et il n'y aura guère que ceux qui auront été lancés sous de petits angles de projection qui viendront tomber sur la terre.
 
 ...
