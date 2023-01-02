@@ -1347,4 +1347,31 @@ _Analyse de la pierre de Bénarès._
 
 397\. Une petite quantité de cette substance fondue avec du borax, donna un verre couleur d'hyacinthe : mise avec de l'acide sulphurique éténdu d'eau, elle y fut dissoute en partie seulement, et une petite quantité qui avait une apparence métallique, refusa de s'y combiner ; mais l'addition de quelques gouttes d'acide nîtrique, en l'oxidant, favorisa sa dissolution. Elle fournit, par une évaporation spontanée, des crystaux allongés d'un très-beau vert.
 
+398\. Il est évident, par les propriétés que cette matière a présentées, qu'elle n'est autre chose que de l'oxide de nickel ; car il est le seul, parmi les métaux, qui jouisse de la faculté de colorer, par la fusion, le borax en rouge d'hyacinthe ; de donner à l'ammoniaque une couleur bleue purpurine ; de former avec l'acide sulphurique un sel prismatique de couleur verte ; enfin, de produire, par sa combinaison avec les acides et l'ammoniaque, des sels triples qui ne sont point précipités par les alkalis fixes.
+
+399\. L'examen des principes obtenus successivement par les différens moyens employés pour l'analyse de la pierre de Bénarès, prouve qu'elle est composée de silice, de magnésie, de fer, dont une partie paraît être oxidée, du nickel et de soufre. Le fer, le nickel et le soufre, forment, suivant toute apparence, une combinaison triple particulière qui semblerait n'être qu'interposée entre les parties terreuses ; cependant je suis porté à croire, qu'an moins une partie de ces substances est en véritable combinaison avec les terres ; car, au moment où la pierre est attaquée par les acides, le silice se montre dans un état de division très-grand, et comme une espèce de gelée. Les proportions dans lesquelles chacune des matières se trouve dans la pierre de Bénarès, sont à-peu-près comme suit :
+
+Silice|48.  
+Fer oxidé|38.  
+Magnésie|13.  
+Nickel|3.  
+Soufre, quantité indéterminée.|-.  
+|102.
+
+400\. Si l'on pouvait supposer que le fer fût, dans cette pierre, à l'état métallique complet, on trouverait facilement, par l'augmentation de poids qu'il acquiert en s'oxigénant, la proportion de soufre ; mais comme il est certain que ce métal y est oxidé dans une quantité inconnue, celle du soufre ne peut l'être.
+
+_Analyse de la pierre de Bénarès, par l'acide muriatique._
+
+401\. Cent parties de cette pierre débarrassée, autant qu'il est possible de le faire méchaniquement, des matières ferrugineuses, ont été traitées par l'acide muriatique étendu d'un peu d'eau. Le mêlange a produit tout-à-coup, avec une vive effervescence, un gaz qui avait l'odeur de l'hydrogène sulphuré. La matière a pris la forme d'une masse gélatineuse, ce qui semble prouver, comme on l'a dit plus haut, que la silice existe dans cette pierre, à l'état de combinaison, soit avec le fer, soit avec d'autres substances.
+
+402\. Lorsque l'effervescence eut cessé, et que le mêlange eut bouilli pendant quelque temps, on l'étendit d'eau et on filtra. La liqueur avait une couleur verte analogue à celle du muriate de fer, mais un peu plus foncée. Le résidu lavé était blanc, et pesait 0,49.
+
+403\. La dissolution muriatique et les lavages réunis ensemble, furent précipités par l'ammoniaque ajoutée en excès, et agitée pendant quelque temps avec le précipité ; on remarqua que l'oxide de fer ainsi précipité par l'ammoniaque, avait une couleur plus intense que celle du fer obtenu dans les mêmes circonstances. Ce fer lavé et desséché pesait 0,42.
+
+404\. La liqueur contenant l'ammoniaque surabondante à la précipitation du fer, avait acquis une couleur violette que la chaleur ni le contact de l'air ne lui faisaient point perdre. Les carbonnates alkalins n'y produisaient aucune altération ; les alkalis fixes caustiques, au contraire, y formaient un précipité blanc assez abondant, lequel lavé et calciné, pesait 0,12. Cette matière combinée avec l'acide sulphurique, a donné du sulphate de magnésie, coloré en vert par une petite quantité de nickel que la magnésie avait entraîné avec elle.
+
+405\. La liqueur dont cette terre avait été séparée par la potasse, avait perdu une partie de sa couleur violette ; cependant elle formait encore un précipité noir avec l'hydrogène sulphuré ; d'après ce que j'avais observé précédemment, je ne doutai pas que la substance qui colorait en vert la magnésie, et qui était précipitée en noir par l'hydrosulphure d'ammoniaque, ne fût du nickel. En conséquence, je séparai, au moyen de ce réactif, la portion restée en dissolution, et celle qui était mêlée au sulphate de magnésie. Je les réunis, et les fis calciner, pour en séparer le soufre ; alors j'obtins un oxide vert qui pesait trois et demi.
+
+_Remarques sur les moyens employés dans cette analyse._
+
 ...
