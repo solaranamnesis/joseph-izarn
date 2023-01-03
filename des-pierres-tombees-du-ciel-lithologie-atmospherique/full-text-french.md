@@ -6,6 +6,14 @@
 
 ### Paris. May 11, 1803.
 
+---
+
+# [Première Section.](#première-section)
+
+# [Deuxième Section.](#deuxième-section)
+
+---
+
 _De hoc multi multa, omnes aliquid_, Nemo Satis.  
 (Inscript. de la Pierre d'Ensishem.)
 
