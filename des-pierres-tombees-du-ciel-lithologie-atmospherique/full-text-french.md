@@ -8,9 +8,9 @@
 
 ---
 
-# [Première Section.](#première-section)
+# [Première Section.](#première-section-1)
 
-# [Deuxième Section.](#deuxième-section)
+# [Deuxième Section.](#deuxième-section-1)
 
 ---
 
