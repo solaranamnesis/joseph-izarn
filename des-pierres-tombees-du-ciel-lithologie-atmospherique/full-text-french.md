@@ -1374,4 +1374,58 @@ _Analyse de la pierre de Bénarès, par l'acide muriatique._
 
 _Remarques sur les moyens employés dans cette analyse._
 
+406\. Là méthode qu'on a mise ici en usage, pour séparer le fer de la magnésie, est fondée sur ce qu'une dissolution de cette terre contenant un excès d'acide n'est pas précipitée par l'ammoniaque, parce qu'il se forme un sel triple qui ne peut être décomposé par une surabondance de cet alkali ; mais la quantité de l'acide doit être assez grande, pour que le sel résultant de sa combinaison avec l'ammoniaque, soit capable de saturer le sel de magnésie existant dans la liqueur. C'est ce qu'on a eu soin d'observer.
+
+407\. Les carbonnates alkalins n'opèrent point la précipitation des substances qui entrent dans la composition du sel triple dont il vient d'être parlé, quoique cependant il doive être décomposé ; mais il s'en forme une autre espèce, composée de magnésie, d'acide carbonnique et d'ammoniaque qui reste en dissolution. Mais une chose que je n'avais pas prévue, c'est la précipitation simultanée d'une portion du nickel et de la maagnésie par la potasse caustique ; car, comme l'a remarqué M. Howard, ce métal se trouve là dans une combinaison complexe, dont l'ammoniaque, à mesure qu'elle est rendue libre, devrait dissoudra l'oxide de nickel. Il faut donc que la précipitation de ce métal soit déterminée par son affinité pour la magnésie, du moins c'est-là ce qui paraît le plus probable.
+
+408\. D'après ces deux analyses de la pierre de Bénarès, et la conformité des résultats qu'elles ont fournis, quoique faites par des méthodes un peu différentes, il n'y a nul doute qu'elle ne soit véritablement composée de fer, de silice, de magnésie, de nickel et de soufre, ainsi que M. Howard l'a annoncé.
+
+409\. Ayant donc, par ces deux moyens, et d'autres encore qu'il est inutile de rapporter ici, confirmé les résultats donnés par le chimiste anglais, sur la composition de la pierre de Bénarès, j'ai soumis aux mêmes expériences deux autres espèces de pierres tombées en France, pour savoir si elles fourniraient les mêmes principes à l'analyse, comme leurs caractères extérieurs semblaient d'avance l'annoncer.
+
+410\. Pour ne pas répéter les détails exposés plus haut, sur les moyens analytiques, je dirai seulement que les pierres tombées à Barbotan et à Juliac, traitées par les acides sulphurique, nîtrique, muriatique, _etc._, ont présenté dans la série des opérations qu'on leur a fait subir, et par la nature des élémens qu'elles ont fournis, la plus parfaite similitude entre elles et avec les précédentes. Ainsi, l'on doit regarder aujourd'hui comme une chose exactement démontrée, que les pierres dites _tombées du ciel_, en différentes régions de la terre, sont composées exactement des mêmes principes ; que, conséquemment, il faut recourir à une cause commune pour en expliquer la formation, et supposer une source également commune où la nature en puise les élémens. Je dois cependant observer que les échantillons des pierres tombées en France, sont un peu plus chargées de fer que celles des pays étrangers ; mais ce métal s'y trouvant, pour la plus grande partie, en globules distincts qui ne se pulvérisent pas sous le pilon, ils n'ont pu influer sur les résultats de l'analyse, ayant passé la poussière terreuse dans un tamis bien fin.
+
+411\. Toutes les pierres tombées sur la terre, et sur-tout celles qui sont tombées en France, contiennent, ainsi que je l'ai déjà dit plusieurs fois, des globules plus ou moins distincts de fer métallique, dont quelques-uns pèsent jusqu'à trois ou quatre grammes. Il m'a paru intéressant de soumettre ce fer à quelques essais analytiques, pour connaître la nature de ses principes constituans ; mais avant d'en offrir les résultats, il ne sera pas inutile d'en exposer les caractères physiques. Il est beaucoup plus blanc que le fer ordinaire ; sa couleur se rapproche de celle de l'étan ; sa dureté est aussi plus considérable, conséquemment, il se forge plus difficilement.
+
+_Examen physique du fer retiré de ces pierres._
+
+412\. Ce métal est dissous avec facilité et effervescence par tous les acides qui dissolvent le fer ordinaire ; mais au lieu de donner du gaz hydrogène pur, il fournit du gaz hydrogène très-sensiblement sulphuré. A la verité, il n'y a qu'une partie de ce gaz hydrogène qui soit combinée au soufre ; car, l'ayant fait passer au travers de l'eau et des alkalis caustiques, la plus grande quantité de ce fluide ne s'y est pas dissoute, et après avoir ainsi traversé successivement les différens liquides dont je viens de parler, il ne donnait plus de signes sensibles de soufre aux réactifs ; mais l'eau et les alkalis étaient manifestement hydro-sulphurés, puisqu'elles précipitaient alors la plupart des dissolutions métalliques, et notamment celle du plomb en noir.
+
+413\. Ce gaz hydrogène sulphuré m'a présenté un phénomène qu'on n'a point, à ce que je sache, observé dans sa combinaison avec l'eau ; c'est une décomposition très-prompte éprouvée dans un flacon parfaitement bouché, où il avait été conservé pendant quelques jours. Au bout de ce temps, il y avait au fond de l'eau beaucoup de petites lames blanches, et l'eau n'avait plus d'odeur ; elle ne précipitait plus les dissolutions de plomb : ce gaz avait donc souffert une décomposition complette.
+
+414\. La dissolution du fer dans l'acide muriatique fut précipitée par l'ammoniaque, dont on ajouta une surabondance. La liqueur filtrée avait une couleur tirant sur le pourpre, l'oxide de fer lavé et calciné était brun, et avait sensiblement augmenté le poids. La liqueur ammonicale, soumise à l'évaporation, déposa de légères traces de fer, mais elle conserva sa couleur bleue tant qu'il y eut de l'ammoniaque en excès, laquelle se changea en vert-pré aussitôt que cet alkali libre fut évaporé. La liqueur conserva constamment cette couleur qui prit de plus en plus de l'intensité, jusqu'à l'évaporation complette, et sans former aucun dépôt, ce qui prouve que le nickel se trouvait à l'état de sel triple dans sa combinaison.
+
+415\. Les alkalis fixes, caustiques, n'occasionnaient point de précipitation dans cette liqueur ; mais ils lui faisaient reprendre sa couleur bleue en décomposant le muriate d'ammoniaque, et en mettant à nu sa base qui redissolvait alors le nickel.
+
+416\. Les hydro-sulphures y formaient un dépôt noir fort abondant, et c'est de ce moyen qu'on a fait usage pour obtenir le nickel à part. L'hydro-sulphure de ce métal, calciné dans un creuset de platine, laissa une poudre d'un vert-pré foncé, qui avait toutes les propriétés de l'oxide de nickel.
+
+417\. Le fer contenu dans les pierres tombées du ciel est donc combiné avec le soufre et le nickel, d'où il est très-vraisemblable que ces deux substances, qui se présentent toujours en quantité plus ou moins considérable dans l'analyse des pierres entières, proviennent d'une pareille combinaison qu'il est impossible, quelque soin que l'on prenne, de séparer exactement des parties terreuses.
+
+418\. La présence du nickel et du soufre dans ce fer, explique pourquoi il est plus blanc, plus dur et moins ductile que le fer ordinaire.
+
+419\. Quoique je n'aie pas estimé rigou reusement les quantités de ces substances dans le fer, je crois pouvoir assurer que chacune d'elles ne s'élève pas au-delà de 5 ou 6 centièmes. Quant aux pyrites qui sont disseminés çà et là dans les pierres, ils sont formés, comme l'a dit M. Howard, de fer, de soufre, et d'une petite quantité de nickel ; mais je n'ai pu m'assurer par moi-même dans quels rapports ces trois substances sont unies, parce que je n'en ai pas eu une quantité suffisante pour les soumettre à une analyse exacte.
+
+_Conclusion et Réflexions._
+
+420\. Il paraît résulter de tous les renseignemens pris, de tous les procès-verbaux dressés, et de tous les témoignages dignes de foi, 1°. que des masses quelquefois très-considérables, sont tombées à la surface de la terre ; 2°. que ces masses pénétrées de feu roulent dans l'atmosphère, comme des globes enflammés qui répandent la lumière et la chaleur à de grandes distances ; 3°. qu'elles semblent avoir reçu un mouvement parallèle à l'horizon, quoiqu'elles décrivent véritablement uue courbe ; 4°. qu'elles tombent dans un état de mollesse ou de fusion pâteuse, ce qu'attestent leur surface vernissée et les empreintes qu'y forment les corps qu'elles rencontrent ; 5°. qu'il en est tombé en Angleterre, en Allemagne, en Italie, en France, et dans les Indes orientales ; 6°. que toutes ces pierres se ressemblent par leurs caractères physiques et par leur composition chimique.
+
+421\. Quelles causes ont pu produire ces sortes de pierres, et leur communiquer un mouvement si rapide et si singulier ? Comment se fait-il qu'elles sont toujours pénétrées de feu ? C'est de quoi il est fort difficile, dans ce moment, de donner des raisous plausibles.
+
+422\. Quelles que soient au reste ces causes, si elles sont multiples, elles doivent être les mêmes, puisque toutes les pierres tombées en des pays si différens se ressemblent sous tous les rapports.
+
+423\. Serait-ce à des volcans qu'elles doivent leur origine ? Mais où sont-ils _ces volcans_ ? On ne les connaît point, et jamais on n'a rencontré des pierres pareilles à cellés-ci dans les produits des volcans connus. L'atmosphère serait-elle le milieu où elles se forment ? Mais comment alors concevoir que des substances aussi pesantes, des terres et des métaux pussent exister en aussi grande quantité, et rester assez long-temps suspendues dans un fluide aussi léger que l'air. En supposant que ces corps existassent dans l'atmosphère, d'où procéderaient-ils originairement ? Et quel moyen serait assez puis sant pour les réunir et pour en former des masses aussi volumineuses et aussi pesantes ?
+
+424\. L'opinion qui les fait venir de la lune, toute extraordinaire qu'elle paraisse est peut-être encore la moins déraisonnable ; et s'il est vrai qu'on n'en puisse donner de preuves directes, il ne l'est pas moins qu'on ne peut lui opposer des raisonnemens bien fondés.
+
+425\. Le parti le plus sage qui nous reste à prendre dans cet état des choses, c'est d'avouer franchement que nous ignorons entièrement l'origine de ces pierres, et les causes qui ont pu les produire.
+
+426\. Nous voilà parvenus au but que je m'étais proposé dans cette Section (7), et je crois inutile d'ajouter d'autres mémoires à ceux que j'y ai réunis. On peut voir ce qui a été publié depuis, dans le _Journal de Physique, pour Brumaire an 11, p. 376_ ; dans les _Annales de Chimie, pour Nivôse an 11, p. 26_ ; et dans la _Bibliothèque Britannique_ de ce mois, n°. 174. Le premier de ces écrits étant le seul où l'on rejette l'existence du phénomène, j'en discuterai les motifs dans la seconde Section, après l'examen du mémoire de M. Howard, qui en est l'objet.
+
+_Fin de la première Section._
+
+# Deuxième Section.
+
+Examen critique des opinions émises jusqu'à ce jour, tant sur la réalité de la chûte _des pierres de l'atmosphère_, que sur leur origine et leur formation ; présentant la marche de l'esprit humain relativement à ce phénomène.
+
+1\. Losqu'après avoir lu tontes ces pièces que j'ai eu soin de présenter par ordre de date, on reporte son attention sur leur ensemble, et que l'on réfléchit sur la marche de l'esprit humain relativement à ce phénomène, on est bientôt convaincu qu'elle a été ce qu'elle devait être, et l'on voit pourquoi nous en sommes encore aujourd'hui à avoir besoin de constater l'existence d'un fait aussi ancien que le monde, et qui s'est reproduit dans tous les âges.
+
 ...
