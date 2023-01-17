@@ -16,7 +16,7 @@
 
 ---
 
-_De hoc multi multa, omnes aliquid_, Nemo Satis.  
+_De hoc multi multa, omnes aliquid_, **Nemo Satis**.  
 (Inscript. de la Pierre d'Ensishem.)
 
 ## Au Citoyen Laplace, Membre du Sénat Conservateur, de l'Institut National de France, _etc._, _etc._
