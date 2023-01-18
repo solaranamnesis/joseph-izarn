@@ -6,6 +6,8 @@
 
 ### Paris. May 11, 1803.
 
+### Chez Delalain Fils, Libraire, quai des Augustins, n°. 38, au coin de la rue Pavée.
+
 ---
 
 # [Première Section.](#première-section-1)
