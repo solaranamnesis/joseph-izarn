@@ -1,0 +1,85 @@
+\documentclass[a4paper, 11pt, oneside, polutonikogreek, french]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{ebgaramond}
+
+% Load encoding definitions (after font package)
+
+\usepackage{textalpha}
+
+\usepackage{listings}
+\lstset{basicstyle=\ttfamily}
+
+% Babel package:
+\usepackage[french]{babel}
+
+% With XeTeX$\$LuaTeX, load fontspec after babel to use Unicode
+% fonts for Latin script and LGR for Greek:
+\ifdefined\luatexversion \usepackage{fontspec}\fi
+\ifdefined\XeTeXrevision \usepackage{fontspec}\fi
+
+% "Lipsiakos" italic font `cbleipzig`:
+\newcommand*{\lishape}{\fontencoding{LGR}\fontfamily{cmr}%
+		       \fontshape{li}\selectfont}
+\DeclareTextFontCommand{\textli}{\lishape}
+
+\usepackage{booktabs}
+\setlength{\emergencystretch}{15pt}
+\usepackage{fancyhdr}
+\usepackage{microtype}
+\begin{document}
+\begin{titlepage} % Suppresses headers and footers on the title page
+	\centering % Centre everything on the title page
+	%\scshape % Use small caps for all text on the title page
+
+	%------------------------------------------------
+	%	Title
+	%------------------------------------------------
+	
+	\rule{\textwidth}{1.6pt}\vspace*{-\baselineskip}\vspace*{2pt} % Thick horizontal rule
+	\rule{\textwidth}{0.4pt} % Thin horizontal rule
+	
+	\vspace{1\baselineskip} % Whitespace above the title
+	
+	{\scshape\Huge Des Pierres Tombées du Ciel,\\ ou\\ Lithologie Atmosphérique.}
+	
+	\vspace{1\baselineskip} % Whitespace above the title
+
+	\rule{\textwidth}{0.4pt}\vspace*{-\baselineskip}\vspace{3.2pt} % Thin horizontal rule
+	\rule{\textwidth}{1.6pt} % Thick horizontal rule
+	
+	\vspace{1\baselineskip} % Whitespace after the title block
+	
+	%------------------------------------------------
+	%	Subtitle
+	%------------------------------------------------
+	
+	{\scshape \Large Présentant la Marche et l'Etat actuel de la Science, sur le Phénomène des Pierres de foudre, Pluies de pierres, Pierres tombées du ciel, etc. ; plusieurs Observations inédites, communiquées par MM. Pictet, Sage, Darcet et Vauquelin ; avec un Essai de Théorie sur la formation de ces Pierres.} % Subtitle or further description
+	
+	\vspace*{1\baselineskip} % Whitespace under the subtitle
+	
+        {\scshape Par Joseph Izarn, Médecin, Professeur de Physique ; de la Société des Sciences, Belles-Lettres et Arts de Paris ; Secrétaire de la Commission d'Expériences de la Société Galvanique, et Correspondant de plusieurs Sociétés savantes. } % Subtitle or further description
+    
+	%------------------------------------------------
+	%	Editor(s)
+	%------------------------------------------------
+        \vspace*{\fill}
+
+	\vspace{1\baselineskip}
+
+	{\small\scshape Paris 11 Avril 1803.}
+	
+	{\small\scshape{Chez Delalain Fils, Libraire, quai des Augustins, n°. 38, au coin de la rue Pavée.}}
+	
+	\vspace{0.5\baselineskip} % Whitespace after the title block
+
+        \scshape Internet Archive Online Edition  % Publication year
+	
+	{\scshape\small Utilisation non commerciale --- Partage dans les mêmes conditions 4.0 International} % Publisher
+\end{titlepage}
+\setlength{\parskip}{1mm plus1mm minus1mm}
+\clearpage
+\paragraph{}
+
+\clearpage
+\end{document}
