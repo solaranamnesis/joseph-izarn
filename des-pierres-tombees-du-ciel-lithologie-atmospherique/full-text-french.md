@@ -629,9 +629,7 @@ _Analyse de la pierre de tonnerre ; par Charles Barthold, professeur à l'Ecole 
 
 187\. Il y a des pierres qui, de leurs parties constituantes, dissolubles dans les acides, si elles sont isolées, résistent néanmoins à son action, par leur combinaison intime avec la terre silicée ; en fondant ces pierres avec la potasse, celle-ci, en se combinant avec une partie de la terre silicée, relâche la liaison que les parties terreuses avaient contractée entr'elles ; et si on les présente alors aux acides, ceux-ci n'ont à agir que sur un mélange de différentes terres ; ils n'ont plus de combinaison intime à rompre.
 
-188\. Suivant l'analyse précédente, le
-morceau de pierre dite de tonnerre que j'ai
-employé a contenu,
+188\. Suivant l'analyse précédente, le morceau de pierre dite de tonnerre que j'ai employé a contenu,
 
 Soufre|0,02  
 Fer|0,20  
